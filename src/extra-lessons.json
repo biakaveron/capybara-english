@@ -1,0 +1,2494 @@
+{
+  "topics": {
+    "backpack": {
+      "understanding": [
+        {
+          "text": "There are two bags.",
+          "ru": "Здесь два рюкзака.",
+          "choices": [
+            {
+              "word": "bag",
+              "count": 2
+            },
+            {
+              "word": "bag",
+              "count": 1
+            },
+            {
+              "word": "bag",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are two bags."
+        },
+        {
+          "text": "There are three books.",
+          "ru": "Здесь три книги.",
+          "choices": [
+            {
+              "word": "book",
+              "count": 1
+            },
+            {
+              "word": "book",
+              "count": 4
+            },
+            {
+              "word": "book",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "There are three books."
+        },
+        {
+          "text": "The pencil is on the table.",
+          "ru": "Карандаш на столе.",
+          "choices": [
+            {
+              "word": "pencil",
+              "position": "on"
+            },
+            {
+              "word": "pencil",
+              "position": "under"
+            },
+            {
+              "word": "pencil",
+              "position": "beside"
+            }
+          ],
+          "correct": 0,
+          "review": "The pencil is on the table."
+        },
+        {
+          "text": "The bottle is big.",
+          "ru": "Бутылка большая.",
+          "choices": [
+            {
+              "word": "bottle",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "bottle",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "bottle",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The bottle is big."
+        },
+        {
+          "text": "There are two small pens.",
+          "ru": "Здесь две маленькие ручки.",
+          "choices": [
+            {
+              "word": "pen",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "pen",
+              "count": 2,
+              "size": "big"
+            },
+            {
+              "word": "pen",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 2,
+          "review": "There are two small pens."
+        },
+        {
+          "text": "There are three small erasers.",
+          "ru": "Здесь три маленьких ластика.",
+          "choices": [
+            {
+              "word": "eraser",
+              "count": 3,
+              "size": "big"
+            },
+            {
+              "word": "eraser",
+              "count": 3,
+              "size": "small"
+            },
+            {
+              "word": "eraser",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 1,
+          "review": "There are three small erasers."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "I ___ a bag.",
+          "ru": "У меня есть рюкзак.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "I have a bag.",
+          "explanation": "С I/you/we/they: have. С he/she/it: has."
+        },
+        {
+          "text": "The books ___ in my bag.",
+          "ru": "Книги в моём рюкзаке.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "The books are in my bag.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "There ___ two pens.",
+          "ru": "Здесь две ручки.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "correct": 2,
+          "complete": "There are two pens.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "She ___ a new pencil.",
+          "ru": "У неё есть новый карандаш.",
+          "choices": [
+            "have",
+            "has",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "She has a new pencil.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "I can ___ my notebook.",
+          "ru": "Я могу найти свою тетрадь.",
+          "choices": [
+            "find",
+            "finds",
+            "finding"
+          ],
+          "correct": 0,
+          "complete": "I can find my notebook.",
+          "explanation": "После can ставим глагол без окончаний: find."
+        },
+        {
+          "text": "This is ___ eraser.",
+          "ru": "Это ластик.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "This is an eraser.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        }
+      ]
+    },
+    "school": {
+      "understanding": [
+        {
+          "text": "There are two desks.",
+          "ru": "Здесь две парты.",
+          "choices": [
+            {
+              "word": "desk",
+              "count": 1
+            },
+            {
+              "word": "desk",
+              "count": 4
+            },
+            {
+              "word": "desk",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "There are two desks."
+        },
+        {
+          "text": "There are three chairs.",
+          "ru": "Здесь три стула.",
+          "choices": [
+            {
+              "word": "chair",
+              "count": 4
+            },
+            {
+              "word": "chair",
+              "count": 3
+            },
+            {
+              "word": "chair",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three chairs."
+        },
+        {
+          "text": "The ruler is under the table.",
+          "ru": "Линейка под столом.",
+          "choices": [
+            {
+              "word": "ruler",
+              "position": "on"
+            },
+            {
+              "word": "ruler",
+              "position": "under"
+            },
+            {
+              "word": "ruler",
+              "position": "beside"
+            }
+          ],
+          "correct": 1,
+          "review": "The ruler is under the table."
+        },
+        {
+          "text": "The notebook is big.",
+          "ru": "Тетрадь большая.",
+          "choices": [
+            {
+              "word": "notebook",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "notebook",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "notebook",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The notebook is big."
+        },
+        {
+          "text": "There are two teachers.",
+          "ru": "Здесь два учителя.",
+          "choices": [
+            {
+              "word": "teacher",
+              "count": 4
+            },
+            {
+              "word": "teacher",
+              "count": 2
+            },
+            {
+              "word": "teacher",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are two teachers."
+        },
+        {
+          "text": "There are three pupils.",
+          "ru": "Здесь три ученика.",
+          "choices": [
+            {
+              "word": "pupil",
+              "count": 3
+            },
+            {
+              "word": "pupil",
+              "count": 1
+            },
+            {
+              "word": "pupil",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are three pupils."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "The teacher ___ here.",
+          "ru": "Учитель здесь.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "The teacher is here.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "We ___ English at school.",
+          "ru": "Мы учим английский в школе.",
+          "choices": [
+            "learns",
+            "learning",
+            "learn"
+          ],
+          "correct": 2,
+          "complete": "We learn English at school.",
+          "explanation": "С I/you/we/they используем глагол без -s: learn."
+        },
+        {
+          "text": "There ___ three desks.",
+          "ru": "Здесь три парты.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "There are three desks.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "He ___ a ruler.",
+          "ru": "У него есть линейка.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "He has a ruler.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "I can ___ the board.",
+          "ru": "Я могу видеть доску.",
+          "choices": [
+            "seeing",
+            "sees",
+            "see"
+          ],
+          "correct": 2,
+          "complete": "I can see the board.",
+          "explanation": "После can ставим глагол без окончаний: see."
+        },
+        {
+          "text": "The pupils ___ in the classroom.",
+          "ru": "Ученики в классе.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "The pupils are in the classroom.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    },
+    "animals": {
+      "understanding": [
+        {
+          "text": "There are two cats.",
+          "ru": "Здесь две кошки.",
+          "choices": [
+            {
+              "word": "cat",
+              "count": 4
+            },
+            {
+              "word": "cat",
+              "count": 2
+            },
+            {
+              "word": "cat",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are two cats."
+        },
+        {
+          "text": "There are three dogs.",
+          "ru": "Здесь три собаки.",
+          "choices": [
+            {
+              "word": "dog",
+              "count": 3
+            },
+            {
+              "word": "dog",
+              "count": 1
+            },
+            {
+              "word": "dog",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are three dogs."
+        },
+        {
+          "text": "The mouse is small.",
+          "ru": "Мышь маленькая.",
+          "choices": [
+            {
+              "word": "mouse",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "mouse",
+              "count": 2,
+              "size": "big"
+            },
+            {
+              "word": "mouse",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 2,
+          "review": "The mouse is small."
+        },
+        {
+          "text": "The cat is big.",
+          "ru": "Кошка большая.",
+          "choices": [
+            {
+              "word": "cat",
+              "count": 2,
+              "size": "small"
+            },
+            {
+              "word": "cat",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "cat",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 1,
+          "review": "The cat is big."
+        },
+        {
+          "text": "There are two small rabbits.",
+          "ru": "Здесь два маленьких кролика.",
+          "choices": [
+            {
+              "word": "rabbit",
+              "count": 2,
+              "size": "small"
+            },
+            {
+              "word": "rabbit",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "rabbit",
+              "count": 2,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "There are two small rabbits."
+        },
+        {
+          "text": "There are three small ducks.",
+          "ru": "Здесь три маленькие утки.",
+          "choices": [
+            {
+              "word": "duck",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "duck",
+              "count": 3,
+              "size": "big"
+            },
+            {
+              "word": "duck",
+              "count": 3,
+              "size": "small"
+            }
+          ],
+          "correct": 2,
+          "review": "There are three small ducks."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "The cat ___ small.",
+          "ru": "Кошка маленькая.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "The cat is small.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "She ___ a dog.",
+          "ru": "У неё есть собака.",
+          "choices": [
+            "have",
+            "has",
+            "is"
+          ],
+          "correct": 1,
+          "complete": "She has a dog.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "The birds can ___.",
+          "ru": "Птицы умеют летать.",
+          "choices": [
+            "flies",
+            "flying",
+            "fly"
+          ],
+          "correct": 2,
+          "complete": "The birds can fly.",
+          "explanation": "После can ставим глагол без окончаний: fly."
+        },
+        {
+          "text": "There ___ two rabbits.",
+          "ru": "Здесь два кролика.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "There are two rabbits.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "I ___ ducks.",
+          "ru": "Мне нравятся утки.",
+          "choices": [
+            "like",
+            "likes",
+            "liking"
+          ],
+          "correct": 0,
+          "complete": "I like ducks.",
+          "explanation": "С I/you/we/they используем глагол без -s: like."
+        },
+        {
+          "text": "This is ___ elephant.",
+          "ru": "Это слон.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "This is an elephant.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        }
+      ]
+    },
+    "family": {
+      "understanding": [
+        {
+          "text": "There are two boys.",
+          "ru": "Здесь два мальчика.",
+          "choices": [
+            {
+              "word": "boy",
+              "count": 2
+            },
+            {
+              "word": "boy",
+              "count": 1
+            },
+            {
+              "word": "boy",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are two boys."
+        },
+        {
+          "text": "There are three girls.",
+          "ru": "Здесь три девочки.",
+          "choices": [
+            {
+              "word": "girl",
+              "count": 1
+            },
+            {
+              "word": "girl",
+              "count": 4
+            },
+            {
+              "word": "girl",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "There are three girls."
+        },
+        {
+          "text": "There are three babies.",
+          "ru": "Здесь три малыша.",
+          "choices": [
+            {
+              "word": "baby",
+              "count": 5
+            },
+            {
+              "word": "baby",
+              "count": 3
+            },
+            {
+              "word": "baby",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three babies."
+        },
+        {
+          "text": "There are four sisters.",
+          "ru": "Здесь четыре сестры.",
+          "choices": [
+            {
+              "word": "sister",
+              "count": 4
+            },
+            {
+              "word": "sister",
+              "count": 1
+            },
+            {
+              "word": "sister",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "There are four sisters."
+        },
+        {
+          "text": "There are two brothers.",
+          "ru": "Здесь два брата.",
+          "choices": [
+            {
+              "word": "brother",
+              "count": 1
+            },
+            {
+              "word": "brother",
+              "count": 4
+            },
+            {
+              "word": "brother",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "There are two brothers."
+        },
+        {
+          "text": "There are three children.",
+          "ru": "Здесь три ребёнка.",
+          "choices": [
+            {
+              "word": "child",
+              "count": 4
+            },
+            {
+              "word": "child",
+              "count": 3
+            },
+            {
+              "word": "child",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three children."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "I ___ a girl.",
+          "ru": "Я девочка.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 2,
+          "complete": "I am a girl.",
+          "explanation": "С I: am."
+        },
+        {
+          "text": "My brother ___ happy.",
+          "ru": "Мой брат рад.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "My brother is happy.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "We ___ friends.",
+          "ru": "Мы друзья.",
+          "choices": [
+            "am",
+            "is",
+            "are"
+          ],
+          "correct": 2,
+          "complete": "We are friends.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "She ___ two sisters.",
+          "ru": "У неё две сестры.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "She has two sisters.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "My baby brother can ___.",
+          "ru": "Мой младший брат умеет ходить.",
+          "choices": [
+            "walk",
+            "walks",
+            "walking"
+          ],
+          "correct": 0,
+          "complete": "My baby brother can walk.",
+          "explanation": "После can ставим глагол без окончаний: walk."
+        },
+        {
+          "text": "They ___ my parents.",
+          "ru": "Они мои родители.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "They are my parents.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    },
+    "home": {
+      "understanding": [
+        {
+          "text": "There are two cups.",
+          "ru": "Здесь две чашки.",
+          "choices": [
+            {
+              "word": "cup",
+              "count": 1
+            },
+            {
+              "word": "cup",
+              "count": 4
+            },
+            {
+              "word": "cup",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "There are two cups."
+        },
+        {
+          "text": "There are three plates.",
+          "ru": "Здесь три тарелки.",
+          "choices": [
+            {
+              "word": "plate",
+              "count": 4
+            },
+            {
+              "word": "plate",
+              "count": 3
+            },
+            {
+              "word": "plate",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three plates."
+        },
+        {
+          "text": "The toy is beside the table.",
+          "ru": "Игрушка рядом со столом.",
+          "choices": [
+            {
+              "word": "toy",
+              "position": "on"
+            },
+            {
+              "word": "toy",
+              "position": "under"
+            },
+            {
+              "word": "toy",
+              "position": "beside"
+            }
+          ],
+          "correct": 2,
+          "review": "The toy is beside the table."
+        },
+        {
+          "text": "The lamp is big.",
+          "ru": "Лампа большая.",
+          "choices": [
+            {
+              "word": "lamp",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "lamp",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "lamp",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The lamp is big."
+        },
+        {
+          "text": "The clock is on the table.",
+          "ru": "Часы на столе.",
+          "choices": [
+            {
+              "word": "clock",
+              "position": "under"
+            },
+            {
+              "word": "clock",
+              "position": "on"
+            },
+            {
+              "word": "clock",
+              "position": "beside"
+            }
+          ],
+          "correct": 1,
+          "review": "The clock is on the table."
+        },
+        {
+          "text": "There are three small keys.",
+          "ru": "Здесь три маленьких ключа.",
+          "choices": [
+            {
+              "word": "key",
+              "count": 3,
+              "size": "small"
+            },
+            {
+              "word": "key",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "key",
+              "count": 3,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "There are three small keys."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "The lamp ___ on the table.",
+          "ru": "Лампа на столе.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "The lamp is on the table.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "There ___ two cups.",
+          "ru": "Здесь две чашки.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "There are two cups.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "He ___ a toy.",
+          "ru": "У него есть игрушка.",
+          "choices": [
+            "have",
+            "has",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "He has a toy.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "We can ___ the door.",
+          "ru": "Мы можем открыть дверь.",
+          "choices": [
+            "opens",
+            "opening",
+            "open"
+          ],
+          "correct": 2,
+          "complete": "We can open the door.",
+          "explanation": "После can ставим глагол без окончаний: open."
+        },
+        {
+          "text": "This is ___ old chair.",
+          "ru": "Это старый стул.",
+          "choices": [
+            "a",
+            "an",
+            "is"
+          ],
+          "correct": 1,
+          "complete": "This is an old chair.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        },
+        {
+          "text": "My keys ___ here.",
+          "ru": "Мои ключи здесь.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "correct": 2,
+          "complete": "My keys are here.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    },
+    "food": {
+      "understanding": [
+        {
+          "text": "There are two apples.",
+          "ru": "Здесь два яблока.",
+          "choices": [
+            {
+              "word": "apple",
+              "count": 4
+            },
+            {
+              "word": "apple",
+              "count": 2
+            },
+            {
+              "word": "apple",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are two apples."
+        },
+        {
+          "text": "There are three bananas.",
+          "ru": "Здесь три банана.",
+          "choices": [
+            {
+              "word": "banana",
+              "count": 3
+            },
+            {
+              "word": "banana",
+              "count": 1
+            },
+            {
+              "word": "banana",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are three bananas."
+        },
+        {
+          "text": "The orange is on the table.",
+          "ru": "Апельсин на столе.",
+          "choices": [
+            {
+              "word": "orange",
+              "position": "on"
+            },
+            {
+              "word": "orange",
+              "position": "under"
+            },
+            {
+              "word": "orange",
+              "position": "beside"
+            }
+          ],
+          "correct": 0,
+          "review": "The orange is on the table."
+        },
+        {
+          "text": "The egg is big.",
+          "ru": "Яйцо большое.",
+          "choices": [
+            {
+              "word": "egg",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "egg",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "egg",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The egg is big."
+        },
+        {
+          "text": "There are two small cakes.",
+          "ru": "Здесь два маленьких торта.",
+          "choices": [
+            {
+              "word": "cake",
+              "count": 2,
+              "size": "small"
+            },
+            {
+              "word": "cake",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "cake",
+              "count": 2,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "There are two small cakes."
+        },
+        {
+          "text": "There are three small pears.",
+          "ru": "Здесь три маленькие груши.",
+          "choices": [
+            {
+              "word": "pear",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "pear",
+              "count": 3,
+              "size": "big"
+            },
+            {
+              "word": "pear",
+              "count": 3,
+              "size": "small"
+            }
+          ],
+          "correct": 2,
+          "review": "There are three small pears."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "This is ___ apple.",
+          "ru": "Это яблоко.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "This is an apple.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        },
+        {
+          "text": "She ___ bananas.",
+          "ru": "Ей нравятся бананы.",
+          "choices": [
+            "like",
+            "likes",
+            "liking"
+          ],
+          "correct": 1,
+          "complete": "She likes bananas.",
+          "explanation": "С he/she/it у этого глагола добавляем -s: likes."
+        },
+        {
+          "text": "There ___ two eggs.",
+          "ru": "Здесь два яйца.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "There are two eggs.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "I can ___ a sandwich.",
+          "ru": "Я могу сделать бутерброд.",
+          "choices": [
+            "makes",
+            "making",
+            "make"
+          ],
+          "correct": 2,
+          "complete": "I can make a sandwich.",
+          "explanation": "После can ставим глагол без окончаний: make."
+        },
+        {
+          "text": "We ___ water every day.",
+          "ru": "Мы пьём воду каждый день.",
+          "choices": [
+            "drink",
+            "drinks",
+            "drinking"
+          ],
+          "correct": 0,
+          "complete": "We drink water every day.",
+          "explanation": "С I/you/we/they используем глагол без -s: drink."
+        },
+        {
+          "text": "The cake ___ big.",
+          "ru": "Торт большой.",
+          "choices": [
+            "am",
+            "are",
+            "is"
+          ],
+          "correct": 2,
+          "complete": "The cake is big.",
+          "explanation": "Для одного предмета или человека: is."
+        }
+      ]
+    },
+    "body": {
+      "understanding": [
+        {
+          "text": "There are two eyes.",
+          "ru": "Здесь два глаза.",
+          "choices": [
+            {
+              "word": "eye",
+              "count": 2
+            },
+            {
+              "word": "eye",
+              "count": 1
+            },
+            {
+              "word": "eye",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are two eyes."
+        },
+        {
+          "text": "There are three ears.",
+          "ru": "Здесь три уха.",
+          "choices": [
+            {
+              "word": "ear",
+              "count": 1
+            },
+            {
+              "word": "ear",
+              "count": 4
+            },
+            {
+              "word": "ear",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "There are three ears."
+        },
+        {
+          "text": "The nose is small.",
+          "ru": "Нос маленький.",
+          "choices": [
+            {
+              "word": "nose",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "nose",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "nose",
+              "count": 2,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "The nose is small."
+        },
+        {
+          "text": "The hand is big.",
+          "ru": "Кисть руки большая.",
+          "choices": [
+            {
+              "word": "hand",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "hand",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "hand",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The hand is big."
+        },
+        {
+          "text": "There are two small legs.",
+          "ru": "Здесь две маленькие ноги.",
+          "choices": [
+            {
+              "word": "leg",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "leg",
+              "count": 2,
+              "size": "big"
+            },
+            {
+              "word": "leg",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 2,
+          "review": "There are two small legs."
+        },
+        {
+          "text": "There are three small fingers.",
+          "ru": "Здесь три маленьких пальца.",
+          "choices": [
+            {
+              "word": "finger",
+              "count": 3,
+              "size": "big"
+            },
+            {
+              "word": "finger",
+              "count": 3,
+              "size": "small"
+            },
+            {
+              "word": "finger",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 1,
+          "review": "There are three small fingers."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "I ___ two hands.",
+          "ru": "У меня две руки.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "I have two hands.",
+          "explanation": "С I/you/we/they: have. С he/she/it: has."
+        },
+        {
+          "text": "My eyes ___ blue.",
+          "ru": "Мои глаза голубые.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "My eyes are blue.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "The shirt ___ red.",
+          "ru": "Рубашка красная.",
+          "choices": [
+            "are",
+            "am",
+            "is"
+          ],
+          "correct": 2,
+          "complete": "The shirt is red.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "She ___ a hat.",
+          "ru": "У неё есть шляпа.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "She has a hat.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "I can ___ my fingers.",
+          "ru": "Я могу сосчитать свои пальцы.",
+          "choices": [
+            "count",
+            "counts",
+            "counting"
+          ],
+          "correct": 0,
+          "complete": "I can count my fingers.",
+          "explanation": "После can ставим глагол без окончаний: count."
+        },
+        {
+          "text": "These ___ my shoes.",
+          "ru": "Это мои туфли.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "correct": 2,
+          "complete": "These are my shoes.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    },
+    "nature": {
+      "understanding": [
+        {
+          "text": "There are two stars.",
+          "ru": "Здесь две звезды.",
+          "choices": [
+            {
+              "word": "star",
+              "count": 1
+            },
+            {
+              "word": "star",
+              "count": 4
+            },
+            {
+              "word": "star",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "There are two stars."
+        },
+        {
+          "text": "There are three flowers.",
+          "ru": "Здесь три цветка.",
+          "choices": [
+            {
+              "word": "flower",
+              "count": 4
+            },
+            {
+              "word": "flower",
+              "count": 3
+            },
+            {
+              "word": "flower",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three flowers."
+        },
+        {
+          "text": "The tree is small.",
+          "ru": "Дерево маленькое.",
+          "choices": [
+            {
+              "word": "tree",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "tree",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "tree",
+              "count": 2,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "The tree is small."
+        },
+        {
+          "text": "The leaf is big.",
+          "ru": "Лист большой.",
+          "choices": [
+            {
+              "word": "leaf",
+              "count": 1,
+              "size": "big"
+            },
+            {
+              "word": "leaf",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "leaf",
+              "count": 2,
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The leaf is big."
+        },
+        {
+          "text": "There are two small clouds.",
+          "ru": "Здесь два маленьких облака.",
+          "choices": [
+            {
+              "word": "cloud",
+              "count": 2,
+              "size": "big"
+            },
+            {
+              "word": "cloud",
+              "count": 2,
+              "size": "small"
+            },
+            {
+              "word": "cloud",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 1,
+          "review": "There are two small clouds."
+        },
+        {
+          "text": "There are three small rocks.",
+          "ru": "Здесь три маленьких камня.",
+          "choices": [
+            {
+              "word": "rock",
+              "count": 3,
+              "size": "small"
+            },
+            {
+              "word": "rock",
+              "count": 1,
+              "size": "small"
+            },
+            {
+              "word": "rock",
+              "count": 3,
+              "size": "big"
+            }
+          ],
+          "correct": 0,
+          "review": "There are three small rocks."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "The sun ___ yellow.",
+          "ru": "Солнце жёлтое.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "The sun is yellow.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "There ___ three trees.",
+          "ru": "Здесь три дерева.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "There are three trees.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "We can ___ the stars.",
+          "ru": "Мы можем видеть звёзды.",
+          "choices": [
+            "sees",
+            "seeing",
+            "see"
+          ],
+          "correct": 2,
+          "complete": "We can see the stars.",
+          "explanation": "После can ставим глагол без окончаний: see."
+        },
+        {
+          "text": "This is ___ orange leaf.",
+          "ru": "Это оранжевый лист.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "This is an orange leaf.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        },
+        {
+          "text": "She ___ flowers.",
+          "ru": "Ей нравятся цветы.",
+          "choices": [
+            "like",
+            "likes",
+            "liking"
+          ],
+          "correct": 1,
+          "complete": "She likes flowers.",
+          "explanation": "С he/she/it у этого глагола добавляем -s: likes."
+        },
+        {
+          "text": "The clouds ___ white.",
+          "ru": "Облака белые.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "The clouds are white.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    },
+    "qualities": {
+      "understanding": [
+        {
+          "text": "There are two green balls.",
+          "ru": "Здесь два зелёных мяча.",
+          "choices": [
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "red",
+              "count": 2
+            },
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "green",
+              "count": 2
+            },
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "green",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are two green balls."
+        },
+        {
+          "text": "There are three yellow stars.",
+          "ru": "Здесь три жёлтые звезды.",
+          "choices": [
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "yellow",
+              "count": 3
+            },
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "blue",
+              "count": 3
+            },
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "yellow",
+              "count": 2
+            }
+          ],
+          "correct": 0,
+          "review": "There are three yellow stars."
+        },
+        {
+          "text": "The ball is pink.",
+          "ru": "Мяч розовый.",
+          "choices": [
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "blue"
+            },
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "red"
+            },
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "pink"
+            }
+          ],
+          "correct": 2,
+          "review": "The ball is pink."
+        },
+        {
+          "text": "The ball is big and green.",
+          "ru": "Мяч большой и зелёный.",
+          "choices": [
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "green",
+              "size": "small"
+            },
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "blue",
+              "size": "big"
+            },
+            {
+              "word": "green",
+              "paint": "ball",
+              "color": "green",
+              "size": "big"
+            }
+          ],
+          "correct": 2,
+          "review": "The ball is big and green."
+        },
+        {
+          "text": "The star is small and yellow.",
+          "ru": "Звезда маленькая и жёлтая.",
+          "choices": [
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "yellow",
+              "size": "small"
+            },
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "yellow",
+              "size": "big"
+            },
+            {
+              "word": "yellow",
+              "paint": "star",
+              "color": "pink",
+              "size": "small"
+            }
+          ],
+          "correct": 0,
+          "review": "The star is small and yellow."
+        },
+        {
+          "text": "There are three pink balls.",
+          "ru": "Здесь три розовых мяча.",
+          "choices": [
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "red",
+              "count": 3
+            },
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "pink",
+              "count": 3
+            },
+            {
+              "word": "pink",
+              "paint": "ball",
+              "color": "pink",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three pink balls."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "The green ball ___ new.",
+          "ru": "Зелёный мяч новый.",
+          "choices": [
+            "am",
+            "are",
+            "is"
+          ],
+          "correct": 2,
+          "complete": "The green ball is new.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "The pink star ___ small.",
+          "ru": "Розовая звезда маленькая.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "The pink star is small.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "Two blue balls ___ here.",
+          "ru": "Здесь два синих мяча.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "correct": 2,
+          "complete": "Two blue balls are here.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "This is ___ old book.",
+          "ru": "Это старая книга.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "This is an old book.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        },
+        {
+          "text": "We ___ happy.",
+          "ru": "Мы рады.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "We are happy.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "I can ___ a red star.",
+          "ru": "Я могу нарисовать красную звезду.",
+          "choices": [
+            "draw",
+            "draws",
+            "drawing"
+          ],
+          "correct": 0,
+          "complete": "I can draw a red star.",
+          "explanation": "После can ставим глагол без окончаний: draw."
+        }
+      ]
+    },
+    "actions": {
+      "understanding": [
+        {
+          "text": "Two children are swimming.",
+          "ru": "Двое детей плавают.",
+          "choices": [
+            {
+              "word": "swim",
+              "count": 2
+            },
+            {
+              "word": "swim",
+              "count": 1
+            },
+            {
+              "word": "swim",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "Two children are swimming."
+        },
+        {
+          "text": "Three children are running.",
+          "ru": "Трое детей бегут.",
+          "choices": [
+            {
+              "word": "run",
+              "count": 1
+            },
+            {
+              "word": "run",
+              "count": 5
+            },
+            {
+              "word": "run",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "Three children are running."
+        },
+        {
+          "text": "Two children are jumping.",
+          "ru": "Двое детей прыгают.",
+          "choices": [
+            {
+              "word": "jump",
+              "count": 5
+            },
+            {
+              "word": "jump",
+              "count": 2
+            },
+            {
+              "word": "jump",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "Two children are jumping."
+        },
+        {
+          "text": "Three children are dancing.",
+          "ru": "Трое детей танцуют.",
+          "choices": [
+            {
+              "word": "dance",
+              "count": 3
+            },
+            {
+              "word": "dance",
+              "count": 1
+            },
+            {
+              "word": "dance",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "Three children are dancing."
+        },
+        {
+          "text": "Two children are singing.",
+          "ru": "Двое детей поют.",
+          "choices": [
+            {
+              "word": "sing",
+              "count": 1,
+              "emoji": "🧑‍🎤"
+            },
+            {
+              "word": "sing",
+              "count": 5,
+              "emoji": "🧑‍🎤"
+            },
+            {
+              "word": "sing",
+              "count": 2,
+              "emoji": "🧑‍🎤"
+            }
+          ],
+          "correct": 2,
+          "review": "Two children are singing."
+        },
+        {
+          "text": "Three children are walking.",
+          "ru": "Трое детей идут.",
+          "choices": [
+            {
+              "word": "walk",
+              "count": 5
+            },
+            {
+              "word": "walk",
+              "count": 3
+            },
+            {
+              "word": "walk",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "Three children are walking."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "I can ___ fast.",
+          "ru": "Я умею быстро бегать.",
+          "choices": [
+            "runs",
+            "run",
+            "running"
+          ],
+          "correct": 1,
+          "complete": "I can run fast.",
+          "explanation": "После can ставим глагол без окончаний: run."
+        },
+        {
+          "text": "She ___ every day.",
+          "ru": "Она плавает каждый день.",
+          "choices": [
+            "swim",
+            "swims",
+            "swimming"
+          ],
+          "correct": 1,
+          "complete": "She swims every day.",
+          "explanation": "С he/she/it у этого глагола добавляем -s: swims."
+        },
+        {
+          "text": "They ___ swimming in the pool.",
+          "ru": "Они плавают в бассейне.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "They are swimming in the pool.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "He can ___ high.",
+          "ru": "Он умеет высоко прыгать.",
+          "choices": [
+            "jumps",
+            "jump",
+            "jumping"
+          ],
+          "correct": 1,
+          "complete": "He can jump high.",
+          "explanation": "После can ставим глагол без окончаний: jump."
+        },
+        {
+          "text": "We ___ to school.",
+          "ru": "Мы идём в школу пешком.",
+          "choices": [
+            "walks",
+            "walk",
+            "walking"
+          ],
+          "correct": 1,
+          "complete": "We walk to school.",
+          "explanation": "С I/you/we/they используем глагол без -s: walk."
+        },
+        {
+          "text": "The children ___ songs.",
+          "ru": "Дети поют песни.",
+          "choices": [
+            "sings",
+            "sing",
+            "are sing"
+          ],
+          "correct": 1,
+          "complete": "The children sing songs.",
+          "explanation": "С I/you/we/they используем глагол без -s: sing."
+        }
+      ]
+    },
+    "professions": {
+      "understanding": [
+        {
+          "text": "There are two doctors.",
+          "ru": "Здесь два врача.",
+          "choices": [
+            {
+              "word": "doctor",
+              "count": 1
+            },
+            {
+              "word": "doctor",
+              "count": 4
+            },
+            {
+              "word": "doctor",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "There are two doctors."
+        },
+        {
+          "text": "There are three nurses.",
+          "ru": "Здесь три медсестры.",
+          "choices": [
+            {
+              "word": "nurse",
+              "count": 4
+            },
+            {
+              "word": "nurse",
+              "count": 3
+            },
+            {
+              "word": "nurse",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are three nurses."
+        },
+        {
+          "text": "There are three cooks.",
+          "ru": "Здесь три повара.",
+          "choices": [
+            {
+              "word": "cook",
+              "count": 3
+            },
+            {
+              "word": "cook",
+              "count": 1
+            },
+            {
+              "word": "cook",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "There are three cooks."
+        },
+        {
+          "text": "There are four farmers.",
+          "ru": "Здесь четыре фермера.",
+          "choices": [
+            {
+              "word": "farmer",
+              "count": 1
+            },
+            {
+              "word": "farmer",
+              "count": 5
+            },
+            {
+              "word": "farmer",
+              "count": 4
+            }
+          ],
+          "correct": 2,
+          "review": "There are four farmers."
+        },
+        {
+          "text": "There are two drivers.",
+          "ru": "Здесь два водителя.",
+          "choices": [
+            {
+              "word": "driver",
+              "count": 4
+            },
+            {
+              "word": "driver",
+              "count": 2
+            },
+            {
+              "word": "driver",
+              "count": 1
+            }
+          ],
+          "correct": 1,
+          "review": "There are two drivers."
+        },
+        {
+          "text": "There are three pilots.",
+          "ru": "Здесь три пилота.",
+          "choices": [
+            {
+              "word": "pilot",
+              "count": 3
+            },
+            {
+              "word": "pilot",
+              "count": 1
+            },
+            {
+              "word": "pilot",
+              "count": 4
+            }
+          ],
+          "correct": 0,
+          "review": "There are three pilots."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "I ___ a doctor.",
+          "ru": "Я врач.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "correct": 2,
+          "complete": "I am a doctor.",
+          "explanation": "С I: am."
+        },
+        {
+          "text": "She is ___ artist.",
+          "ru": "Она художница.",
+          "choices": [
+            "a",
+            "an",
+            "are"
+          ],
+          "correct": 1,
+          "complete": "She is an artist.",
+          "explanation": "Перед словом, которое начинается с гласного звука: an."
+        },
+        {
+          "text": "The farmers ___ here.",
+          "ru": "Фермеры здесь.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "The farmers are here.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        },
+        {
+          "text": "The cook ___ a spoon.",
+          "ru": "У повара есть ложка.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "The cook has a spoon.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "A pilot can ___ a plane.",
+          "ru": "Пилот умеет управлять самолётом.",
+          "choices": [
+            "flies",
+            "flying",
+            "fly"
+          ],
+          "correct": 2,
+          "complete": "A pilot can fly a plane.",
+          "explanation": "После can ставим глагол без окончаний: fly."
+        },
+        {
+          "text": "The teacher ___ at school.",
+          "ru": "Учитель работает в школе.",
+          "choices": [
+            "work",
+            "works",
+            "working"
+          ],
+          "correct": 1,
+          "complete": "The teacher works at school.",
+          "explanation": "С he/she/it у этого глагола добавляем -s: works."
+        }
+      ]
+    },
+    "sport": {
+      "understanding": [
+        {
+          "text": "There are two footballs.",
+          "ru": "Здесь два футбольных мяча.",
+          "choices": [
+            {
+              "word": "football",
+              "count": 2
+            },
+            {
+              "word": "football",
+              "count": 1
+            },
+            {
+              "word": "football",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "There are two footballs."
+        },
+        {
+          "text": "There are three basketballs.",
+          "ru": "Здесь три баскетбольных мяча.",
+          "choices": [
+            {
+              "word": "basketball",
+              "count": 5
+            },
+            {
+              "word": "basketball",
+              "count": 1
+            },
+            {
+              "word": "basketball",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "There are three basketballs."
+        },
+        {
+          "text": "There are three tennis balls.",
+          "ru": "Здесь три теннисных мяча.",
+          "choices": [
+            {
+              "word": "tennis",
+              "count": 3
+            },
+            {
+              "word": "tennis",
+              "count": 1
+            },
+            {
+              "word": "tennis",
+              "count": 5
+            }
+          ],
+          "correct": 0,
+          "review": "There are three tennis balls."
+        },
+        {
+          "text": "Two children are swimming.",
+          "ru": "Двое детей плавают.",
+          "choices": [
+            {
+              "word": "swimming",
+              "count": 5
+            },
+            {
+              "word": "swimming",
+              "count": 1
+            },
+            {
+              "word": "swimming",
+              "count": 2
+            }
+          ],
+          "correct": 2,
+          "review": "Two children are swimming."
+        },
+        {
+          "text": "There are two small red balls.",
+          "ru": "Здесь два маленьких красных мяча.",
+          "choices": [
+            {
+              "word": "football",
+              "paint": "ball",
+              "color": "red",
+              "count": 2,
+              "size": "big"
+            },
+            {
+              "word": "football",
+              "paint": "ball",
+              "color": "red",
+              "count": 2,
+              "size": "small"
+            },
+            {
+              "word": "football",
+              "paint": "ball",
+              "color": "red",
+              "count": 1,
+              "size": "small"
+            }
+          ],
+          "correct": 1,
+          "review": "There are two small red balls."
+        },
+        {
+          "text": "There are three blue balls.",
+          "ru": "Здесь три синих мяча.",
+          "choices": [
+            {
+              "word": "basketball",
+              "paint": "ball",
+              "color": "red",
+              "count": 3
+            },
+            {
+              "word": "basketball",
+              "paint": "ball",
+              "color": "blue",
+              "count": 1
+            },
+            {
+              "word": "basketball",
+              "paint": "ball",
+              "color": "blue",
+              "count": 3
+            }
+          ],
+          "correct": 2,
+          "review": "There are three blue balls."
+        }
+      ],
+      "gaps": [
+        {
+          "text": "He ___ football.",
+          "ru": "Он играет в футбол.",
+          "choices": [
+            "play",
+            "plays",
+            "playing"
+          ],
+          "correct": 1,
+          "complete": "He plays football.",
+          "explanation": "С he/she/it у этого глагола добавляем -s: plays."
+        },
+        {
+          "text": "They ___ basketball.",
+          "ru": "Они играют в баскетбол.",
+          "choices": [
+            "plays",
+            "play",
+            "playing"
+          ],
+          "correct": 1,
+          "complete": "They play basketball.",
+          "explanation": "С I/you/we/they используем глагол без -s: play."
+        },
+        {
+          "text": "I can ___ in the pool.",
+          "ru": "Я умею плавать в бассейне.",
+          "choices": [
+            "swim",
+            "swims",
+            "swimming"
+          ],
+          "correct": 0,
+          "complete": "I can swim in the pool.",
+          "explanation": "После can ставим глагол без окончаний: swim."
+        },
+        {
+          "text": "The ball ___ new.",
+          "ru": "Мяч новый.",
+          "choices": [
+            "are",
+            "am",
+            "is"
+          ],
+          "correct": 2,
+          "complete": "The ball is new.",
+          "explanation": "Для одного предмета или человека: is."
+        },
+        {
+          "text": "She ___ a racket.",
+          "ru": "У неё есть ракетка.",
+          "choices": [
+            "have",
+            "has",
+            "am"
+          ],
+          "correct": 1,
+          "complete": "She has a racket.",
+          "explanation": "С he/she/it: has. С I/you/we/they: have."
+        },
+        {
+          "text": "There ___ two balls.",
+          "ru": "Здесь два мяча.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "correct": 0,
+          "complete": "There are two balls.",
+          "explanation": "Для нескольких предметов и с we/you/they: are."
+        }
+      ]
+    }
+  }
+}

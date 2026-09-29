@@ -1,0 +1,1999 @@
+{
+  "words": [
+    {
+      "en": "bag",
+      "ipa": "bæɡ",
+      "ru": "сумка, рюкзак",
+      "example": "Open your bag, please.",
+      "topic": "backpack",
+      "emoji": "🎒",
+      "kind": "bag",
+      "color": "red"
+    },
+    {
+      "en": "book",
+      "ipa": "bʊk",
+      "ru": "книга",
+      "example": "I see a book.",
+      "topic": "backpack",
+      "emoji": "📖",
+      "kind": "book",
+      "color": "blue"
+    },
+    {
+      "en": "pen",
+      "ipa": "pen",
+      "ru": "ручка",
+      "example": "Can I take your pen?",
+      "topic": "backpack",
+      "emoji": "🖊️",
+      "kind": "pen",
+      "color": "blue"
+    },
+    {
+      "en": "pencil",
+      "ipa": "ˈpensəl",
+      "ru": "карандаш",
+      "example": "My pencil is on the desk.",
+      "topic": "backpack",
+      "emoji": "✏️",
+      "kind": "pencil",
+      "color": "teal"
+    },
+    {
+      "en": "red",
+      "ipa": "red",
+      "ru": "красный",
+      "example": "My bag is red.",
+      "topic": "backpack",
+      "emoji": "🔴",
+      "kind": "bag",
+      "color": "red"
+    },
+    {
+      "en": "blue",
+      "ipa": "bluː",
+      "ru": "синий",
+      "example": "My book is blue.",
+      "topic": "backpack",
+      "emoji": "🔵",
+      "kind": "book",
+      "color": "blue"
+    },
+    {
+      "en": "big",
+      "ipa": "bɪɡ",
+      "ru": "большой",
+      "example": "It is a big book.",
+      "topic": "backpack",
+      "emoji": "🐘",
+      "kind": "book",
+      "color": "blue",
+      "size": "big"
+    },
+    {
+      "en": "have",
+      "ipa": "hæv",
+      "ru": "иметь; у меня есть",
+      "example": "I have a book.",
+      "topic": "backpack",
+      "emoji": "🤲",
+      "icon": "hand",
+      "tip": "I have… — «У меня есть…»"
+    },
+    {
+      "en": "see",
+      "ipa": "siː",
+      "ru": "видеть",
+      "example": "I see a pen.",
+      "topic": "backpack",
+      "emoji": "👀",
+      "icon": "eye",
+      "tip": "В слове see сочетание ee читается как долгий звук /iː/."
+    },
+    {
+      "en": "like",
+      "ipa": "laɪk",
+      "ru": "любить; нравиться",
+      "example": "I like books.",
+      "topic": "backpack",
+      "emoji": "❤️",
+      "icon": "heart",
+      "tip": "I like… — «Мне нравится…»"
+    },
+    {
+      "en": "desk",
+      "ipa": "desk",
+      "ru": "парта; письменный стол",
+      "example": "The book is on the desk.",
+      "topic": "school",
+      "emoji": "🪑",
+      "icon": "desk",
+      "color": "blue"
+    },
+    {
+      "en": "chair",
+      "ipa": "tʃeə",
+      "ru": "стул",
+      "example": "I sit on a chair.",
+      "topic": "school",
+      "emoji": "🪑"
+    },
+    {
+      "en": "ruler",
+      "ipa": "ˈruːlə",
+      "ru": "линейка",
+      "example": "Can I use your ruler?",
+      "topic": "school",
+      "emoji": "📏"
+    },
+    {
+      "en": "notebook",
+      "ipa": "ˈnəʊtbʊk",
+      "ru": "тетрадь",
+      "example": "Open your notebook.",
+      "topic": "school",
+      "emoji": "📓"
+    },
+    {
+      "en": "school",
+      "ipa": "skuːl",
+      "ru": "школа",
+      "example": "I go to school.",
+      "topic": "school",
+      "emoji": "🏫"
+    },
+    {
+      "en": "teacher",
+      "ipa": "ˈtiːtʃə",
+      "ru": "учитель; учительница",
+      "example": "The teacher is reading.",
+      "topic": "school",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "en": "pupil",
+      "ipa": "ˈpjuːpəl",
+      "ru": "ученик; ученица",
+      "example": "The pupil has a question.",
+      "topic": "school",
+      "emoji": "🧒"
+    },
+    {
+      "en": "door",
+      "ipa": "dɔː",
+      "ru": "дверь",
+      "example": "Please close the door.",
+      "topic": "school",
+      "emoji": "🚪"
+    },
+    {
+      "en": "window",
+      "ipa": "ˈwɪndəʊ",
+      "ru": "окно",
+      "example": "The window is open.",
+      "topic": "school",
+      "emoji": "🪟"
+    },
+    {
+      "en": "paper",
+      "ipa": "ˈpeɪpə",
+      "ru": "бумага; лист бумаги",
+      "example": "I have a sheet of paper.",
+      "topic": "school",
+      "emoji": "📄"
+    },
+    {
+      "en": "cat",
+      "ipa": "kæt",
+      "ru": "кошка; кот",
+      "example": "The cat is big.",
+      "topic": "animals",
+      "emoji": "🐱"
+    },
+    {
+      "en": "dog",
+      "ipa": "dɒɡ",
+      "ru": "собака; пёс",
+      "example": "The dog can run.",
+      "topic": "animals",
+      "emoji": "🐶"
+    },
+    {
+      "en": "bird",
+      "ipa": "bɜːd",
+      "ru": "птица",
+      "example": "The bird can fly.",
+      "topic": "animals",
+      "emoji": "🐦"
+    },
+    {
+      "en": "fish",
+      "ipa": "fɪʃ",
+      "ru": "рыба",
+      "example": "A fish cannot walk.",
+      "topic": "animals",
+      "emoji": "🐟"
+    },
+    {
+      "en": "rabbit",
+      "ipa": "ˈræbɪt",
+      "ru": "кролик",
+      "example": "A rabbit has long ears.",
+      "topic": "animals",
+      "emoji": "🐰"
+    },
+    {
+      "en": "horse",
+      "ipa": "hɔːs",
+      "ru": "лошадь",
+      "example": "The horse can run fast.",
+      "topic": "animals",
+      "emoji": "🐴"
+    },
+    {
+      "en": "cow",
+      "ipa": "kaʊ",
+      "ru": "корова",
+      "example": "The cow eats grass.",
+      "topic": "animals",
+      "emoji": "🐄"
+    },
+    {
+      "en": "pig",
+      "ipa": "pɪɡ",
+      "ru": "свинья",
+      "example": "There are two pigs.",
+      "topic": "animals",
+      "emoji": "🐷"
+    },
+    {
+      "en": "duck",
+      "ipa": "dʌk",
+      "ru": "утка",
+      "example": "The duck is swimming.",
+      "topic": "animals",
+      "emoji": "🦆"
+    },
+    {
+      "en": "mouse",
+      "ipa": "maʊs",
+      "ru": "мышь",
+      "example": "The mouse is small.",
+      "topic": "animals",
+      "emoji": "🐭"
+    },
+    {
+      "en": "mother",
+      "ipa": "ˈmʌðə",
+      "ru": "мама; мать",
+      "example": "My mother is kind.",
+      "topic": "family",
+      "emoji": "👩"
+    },
+    {
+      "en": "father",
+      "ipa": "ˈfɑːðə",
+      "ru": "папа; отец",
+      "example": "My father is kind.",
+      "topic": "family",
+      "emoji": "👨"
+    },
+    {
+      "en": "sister",
+      "ipa": "ˈsɪstə",
+      "ru": "сестра",
+      "example": "My sister is happy.",
+      "topic": "family",
+      "emoji": "👧"
+    },
+    {
+      "en": "brother",
+      "ipa": "ˈbrʌðə",
+      "ru": "брат",
+      "example": "My brother can run.",
+      "topic": "family",
+      "emoji": "👦"
+    },
+    {
+      "en": "baby",
+      "ipa": "ˈbeɪbi",
+      "ru": "малыш; младенец",
+      "example": "The baby is sleeping.",
+      "topic": "family",
+      "emoji": "👶"
+    },
+    {
+      "en": "family",
+      "ipa": "ˈfæməli",
+      "ru": "семья",
+      "example": "I love my family.",
+      "topic": "family",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "en": "friend",
+      "ipa": "frend",
+      "ru": "друг; подруга",
+      "example": "My friend can swim.",
+      "topic": "family",
+      "emoji": "🧑‍🤝‍🧑"
+    },
+    {
+      "en": "boy",
+      "ipa": "bɔɪ",
+      "ru": "мальчик",
+      "example": "The boy is playing.",
+      "topic": "family",
+      "emoji": "👦"
+    },
+    {
+      "en": "girl",
+      "ipa": "ɡɜːl",
+      "ru": "девочка",
+      "example": "This girl can sing.",
+      "topic": "family",
+      "emoji": "👧"
+    },
+    {
+      "en": "child",
+      "ipa": "tʃaɪld",
+      "ru": "ребёнок",
+      "example": "The child can read.",
+      "topic": "family",
+      "emoji": "🧒"
+    },
+    {
+      "en": "house",
+      "ipa": "haʊs",
+      "ru": "дом",
+      "example": "Our house has a garden.",
+      "topic": "home",
+      "emoji": "🏠"
+    },
+    {
+      "en": "room",
+      "ipa": "ruːm",
+      "ru": "комната",
+      "example": "My room is small.",
+      "topic": "home",
+      "emoji": "🛏️"
+    },
+    {
+      "en": "bed",
+      "ipa": "bed",
+      "ru": "кровать",
+      "example": "The cat is on the bed.",
+      "topic": "home",
+      "emoji": "🛏️"
+    },
+    {
+      "en": "table",
+      "ipa": "ˈteɪbəl",
+      "ru": "стол",
+      "example": "The cup is on the table.",
+      "topic": "home",
+      "emoji": "🪑",
+      "icon": "desk",
+      "color": "blue"
+    },
+    {
+      "en": "sofa",
+      "ipa": "ˈsəʊfə",
+      "ru": "диван",
+      "example": "Sit on the sofa.",
+      "topic": "home",
+      "emoji": "🛋️"
+    },
+    {
+      "en": "lamp",
+      "ipa": "læmp",
+      "ru": "лампа",
+      "example": "Turn on the lamp, please.",
+      "topic": "home",
+      "emoji": "💡"
+    },
+    {
+      "en": "cup",
+      "ipa": "kʌp",
+      "ru": "чашка",
+      "example": "My cup is on the table.",
+      "topic": "home",
+      "emoji": "☕"
+    },
+    {
+      "en": "plate",
+      "ipa": "pleɪt",
+      "ru": "тарелка",
+      "example": "There are two plates.",
+      "topic": "home",
+      "emoji": "🍽️"
+    },
+    {
+      "en": "clock",
+      "ipa": "klɒk",
+      "ru": "часы",
+      "example": "Look at the clock.",
+      "topic": "home",
+      "emoji": "🕒"
+    },
+    {
+      "en": "toy",
+      "ipa": "tɔɪ",
+      "ru": "игрушка",
+      "example": "This toy is new.",
+      "topic": "home",
+      "emoji": "🧸"
+    },
+    {
+      "en": "apple",
+      "ipa": "ˈæpəl",
+      "ru": "яблоко",
+      "example": "She eats an apple.",
+      "topic": "food",
+      "emoji": "🍎"
+    },
+    {
+      "en": "banana",
+      "ipa": "bəˈnɑːnə",
+      "ru": "банан",
+      "example": "Peel the banana, please.",
+      "topic": "food",
+      "emoji": "🍌"
+    },
+    {
+      "en": "orange",
+      "ipa": "ˈɒrɪndʒ",
+      "ru": "апельсин",
+      "example": "Can I have an orange?",
+      "topic": "food",
+      "emoji": "🍊"
+    },
+    {
+      "en": "bread",
+      "ipa": "bred",
+      "ru": "хлеб",
+      "example": "We need some bread.",
+      "topic": "food",
+      "emoji": "🍞"
+    },
+    {
+      "en": "milk",
+      "ipa": "mɪlk",
+      "ru": "молоко",
+      "example": "She does not drink milk.",
+      "topic": "food",
+      "emoji": "🥛"
+    },
+    {
+      "en": "water",
+      "ipa": "ˈwɔːtə",
+      "ru": "вода",
+      "example": "Please give me some water.",
+      "topic": "food",
+      "emoji": "💧"
+    },
+    {
+      "en": "egg",
+      "ipa": "eɡ",
+      "ru": "яйцо",
+      "example": "There are three eggs.",
+      "topic": "food",
+      "emoji": "🥚"
+    },
+    {
+      "en": "cheese",
+      "ipa": "tʃiːz",
+      "ru": "сыр",
+      "example": "I like cheese.",
+      "topic": "food",
+      "emoji": "🧀"
+    },
+    {
+      "en": "cake",
+      "ipa": "keɪk",
+      "ru": "торт; пирог",
+      "example": "This cake is big.",
+      "topic": "food",
+      "emoji": "🍰"
+    },
+    {
+      "en": "juice",
+      "ipa": "dʒuːs",
+      "ru": "сок",
+      "example": "I drink juice.",
+      "topic": "food",
+      "emoji": "🧃"
+    },
+    {
+      "en": "head",
+      "ipa": "hed",
+      "ru": "голова",
+      "example": "This is my head.",
+      "topic": "body",
+      "emoji": "🙂"
+    },
+    {
+      "en": "eye",
+      "ipa": "aɪ",
+      "ru": "глаз",
+      "example": "I have two eyes.",
+      "topic": "body",
+      "emoji": "👁️"
+    },
+    {
+      "en": "ear",
+      "ipa": "ɪə",
+      "ru": "ухо",
+      "example": "I have two ears.",
+      "topic": "body",
+      "emoji": "👂"
+    },
+    {
+      "en": "nose",
+      "ipa": "nəʊz",
+      "ru": "нос",
+      "example": "I have a nose.",
+      "topic": "body",
+      "emoji": "👃"
+    },
+    {
+      "en": "mouth",
+      "ipa": "maʊθ",
+      "ru": "рот",
+      "example": "I have a mouth.",
+      "topic": "body",
+      "emoji": "👄"
+    },
+    {
+      "en": "hand",
+      "ipa": "hænd",
+      "ru": "кисть; рука",
+      "example": "Wash your hands, please.",
+      "topic": "body",
+      "emoji": "✋"
+    },
+    {
+      "en": "leg",
+      "ipa": "leɡ",
+      "ru": "нога",
+      "example": "I have two legs.",
+      "topic": "body",
+      "emoji": "🦵"
+    },
+    {
+      "en": "foot",
+      "ipa": "fʊt",
+      "ru": "ступня; нога",
+      "example": "I have two feet.",
+      "topic": "body",
+      "emoji": "🦶"
+    },
+    {
+      "en": "shirt",
+      "ipa": "ʃɜːt",
+      "ru": "рубашка",
+      "example": "My shirt is blue.",
+      "topic": "body",
+      "emoji": "👔"
+    },
+    {
+      "en": "shoe",
+      "ipa": "ʃuː",
+      "ru": "туфля; ботинок",
+      "example": "Put on your shoes.",
+      "topic": "body",
+      "emoji": "👟"
+    },
+    {
+      "en": "sun",
+      "ipa": "sʌn",
+      "ru": "солнце",
+      "example": "The sun is in the sky.",
+      "topic": "nature",
+      "emoji": "☀️"
+    },
+    {
+      "en": "moon",
+      "ipa": "muːn",
+      "ru": "луна",
+      "example": "Can you see the moon?",
+      "topic": "nature",
+      "emoji": "🌙"
+    },
+    {
+      "en": "star",
+      "ipa": "stɑː",
+      "ru": "звезда",
+      "example": "Can you see three stars?",
+      "topic": "nature",
+      "emoji": "⭐"
+    },
+    {
+      "en": "sky",
+      "ipa": "skaɪ",
+      "ru": "небо",
+      "example": "The sky is blue.",
+      "topic": "nature",
+      "emoji": "🌤️"
+    },
+    {
+      "en": "tree",
+      "ipa": "triː",
+      "ru": "дерево",
+      "example": "There is a big tree.",
+      "topic": "nature",
+      "emoji": "🌳"
+    },
+    {
+      "en": "flower",
+      "ipa": "ˈflaʊə",
+      "ru": "цветок",
+      "example": "The flower is pink.",
+      "topic": "nature",
+      "emoji": "🌸"
+    },
+    {
+      "en": "grass",
+      "ipa": "ɡrɑːs",
+      "ru": "трава",
+      "example": "The grass is green.",
+      "topic": "nature",
+      "emoji": "🌱"
+    },
+    {
+      "en": "rain",
+      "ipa": "reɪn",
+      "ru": "дождь",
+      "example": "I see rain.",
+      "topic": "nature",
+      "emoji": "🌧️"
+    },
+    {
+      "en": "snow",
+      "ipa": "snəʊ",
+      "ru": "снег",
+      "example": "The snow is white.",
+      "topic": "nature",
+      "emoji": "❄️"
+    },
+    {
+      "en": "ball",
+      "ipa": "bɔːl",
+      "ru": "мяч",
+      "example": "I have a ball.",
+      "topic": "nature",
+      "emoji": "⚽"
+    },
+    {
+      "en": "green",
+      "ipa": "ɡriːn",
+      "ru": "зелёный",
+      "example": "This colour is green.",
+      "topic": "qualities",
+      "emoji": "🟢"
+    },
+    {
+      "en": "yellow",
+      "ipa": "ˈjeləʊ",
+      "ru": "жёлтый",
+      "example": "Can you find yellow?",
+      "topic": "qualities",
+      "emoji": "🟡"
+    },
+    {
+      "en": "black",
+      "ipa": "blæk",
+      "ru": "чёрный",
+      "example": "Point to black, please.",
+      "topic": "qualities",
+      "emoji": "⚫"
+    },
+    {
+      "en": "white",
+      "ipa": "waɪt",
+      "ru": "белый",
+      "example": "The white colour is here.",
+      "topic": "qualities",
+      "emoji": "⚪"
+    },
+    {
+      "en": "pink",
+      "ipa": "pɪŋk",
+      "ru": "розовый",
+      "example": "Choose the pink colour.",
+      "topic": "qualities",
+      "emoji": "🩷"
+    },
+    {
+      "en": "small",
+      "ipa": "smɔːl",
+      "ru": "маленький",
+      "example": "The mouse is small.",
+      "topic": "qualities",
+      "emoji": "🐭"
+    },
+    {
+      "en": "happy",
+      "ipa": "ˈhæpi",
+      "ru": "счастливый; радостный",
+      "example": "She feels happy today.",
+      "topic": "qualities",
+      "emoji": "😊"
+    },
+    {
+      "en": "sad",
+      "ipa": "sæd",
+      "ru": "грустный",
+      "example": "Why is he sad?",
+      "topic": "qualities",
+      "emoji": "😢"
+    },
+    {
+      "en": "hot",
+      "ipa": "hɒt",
+      "ru": "горячий; жаркий",
+      "example": "The tea is hot.",
+      "topic": "qualities",
+      "emoji": "🔥"
+    },
+    {
+      "en": "cold",
+      "ipa": "kəʊld",
+      "ru": "холодный",
+      "example": "My hands feel cold.",
+      "topic": "qualities",
+      "emoji": "🥶"
+    },
+    {
+      "en": "run",
+      "ipa": "rʌn",
+      "ru": "бегать",
+      "example": "I can run.",
+      "topic": "actions",
+      "emoji": "🏃"
+    },
+    {
+      "en": "walk",
+      "ipa": "wɔːk",
+      "ru": "ходить; гулять",
+      "example": "I walk to school.",
+      "topic": "actions",
+      "emoji": "🚶"
+    },
+    {
+      "en": "jump",
+      "ipa": "dʒʌmp",
+      "ru": "прыгать",
+      "example": "Jump over the line.",
+      "topic": "actions",
+      "emoji": "🤸"
+    },
+    {
+      "en": "swim",
+      "ipa": "swɪm",
+      "ru": "плавать",
+      "example": "She is swimming.",
+      "topic": "actions",
+      "emoji": "🏊"
+    },
+    {
+      "en": "play",
+      "ipa": "pleɪ",
+      "ru": "играть",
+      "example": "I play with my friend.",
+      "topic": "actions",
+      "emoji": "🎮"
+    },
+    {
+      "en": "read",
+      "ipa": "riːd",
+      "ru": "читать",
+      "example": "Read this word, please.",
+      "topic": "actions",
+      "emoji": "📚"
+    },
+    {
+      "en": "write",
+      "ipa": "raɪt",
+      "ru": "писать",
+      "example": "Write your name.",
+      "topic": "actions",
+      "emoji": "✍️"
+    },
+    {
+      "en": "eat",
+      "ipa": "iːt",
+      "ru": "есть",
+      "example": "I eat an apple.",
+      "topic": "actions",
+      "emoji": "🍽️"
+    },
+    {
+      "en": "drink",
+      "ipa": "drɪŋk",
+      "ru": "пить",
+      "example": "I drink water.",
+      "topic": "actions",
+      "emoji": "🥤"
+    },
+    {
+      "en": "sleep",
+      "ipa": "sliːp",
+      "ru": "спать",
+      "example": "I sleep at night.",
+      "topic": "actions",
+      "emoji": "😴"
+    },
+    {
+      "en": "backpack",
+      "ipa": "ˈbækpæk",
+      "ru": "рюкзак",
+      "example": "I have a backpack.",
+      "topic": "backpack",
+      "emoji": "🎒"
+    },
+    {
+      "en": "eraser",
+      "ipa": "ɪˈreɪzə",
+      "ru": "ластик",
+      "example": "Give me an eraser, please.",
+      "topic": "backpack",
+      "emoji": "🧽"
+    },
+    {
+      "en": "sharpener",
+      "ipa": "ˈʃɑːpənə",
+      "ru": "точилка",
+      "example": "Can I use your sharpener?",
+      "topic": "backpack",
+      "emoji": "✏️"
+    },
+    {
+      "en": "glue",
+      "ipa": "ɡluː",
+      "ru": "клей",
+      "example": "I have glue.",
+      "topic": "backpack",
+      "emoji": "🧴"
+    },
+    {
+      "en": "scissors",
+      "ipa": "ˈsɪzəz",
+      "ru": "ножницы",
+      "example": "These scissors are new.",
+      "topic": "backpack",
+      "emoji": "✂️"
+    },
+    {
+      "en": "marker",
+      "ipa": "ˈmɑːkə",
+      "ru": "маркер",
+      "example": "This marker is new.",
+      "topic": "backpack",
+      "emoji": "🖊️"
+    },
+    {
+      "en": "crayon",
+      "ipa": "ˈkreɪɒn",
+      "ru": "восковой мелок",
+      "example": "Draw with a crayon.",
+      "topic": "backpack",
+      "emoji": "🖍️"
+    },
+    {
+      "en": "folder",
+      "ipa": "ˈfəʊldə",
+      "ru": "папка",
+      "example": "My folder is on the desk.",
+      "topic": "backpack",
+      "emoji": "📁"
+    },
+    {
+      "en": "lunchbox",
+      "ipa": "ˈlʌntʃbɒks",
+      "ru": "коробка для обеда",
+      "example": "Open your lunchbox.",
+      "topic": "backpack",
+      "emoji": "🍱"
+    },
+    {
+      "en": "bottle",
+      "ipa": "ˈbɒtəl",
+      "ru": "бутылка",
+      "example": "I have a bottle.",
+      "topic": "backpack",
+      "emoji": "🍼"
+    },
+    {
+      "en": "class",
+      "ipa": "klɑːs",
+      "ru": "класс",
+      "example": "I like my class.",
+      "topic": "school",
+      "emoji": "🏫"
+    },
+    {
+      "en": "lesson",
+      "ipa": "ˈlesən",
+      "ru": "урок",
+      "example": "The lesson is fun.",
+      "topic": "school",
+      "emoji": "📖"
+    },
+    {
+      "en": "homework",
+      "ipa": "ˈhəʊmwɜːk",
+      "ru": "домашнее задание",
+      "example": "I do my homework.",
+      "topic": "school",
+      "emoji": "📝"
+    },
+    {
+      "en": "board",
+      "ipa": "bɔːd",
+      "ru": "доска",
+      "example": "I see a board.",
+      "topic": "school",
+      "emoji": "📋"
+    },
+    {
+      "en": "computer",
+      "ipa": "kəmˈpjuːtə",
+      "ru": "компьютер",
+      "example": "The computer is on the desk.",
+      "topic": "school",
+      "emoji": "💻"
+    },
+    {
+      "en": "letter",
+      "ipa": "ˈletə",
+      "ru": "буква",
+      "example": "This is the letter A.",
+      "topic": "school",
+      "emoji": "🔤"
+    },
+    {
+      "en": "word",
+      "ipa": "wɜːd",
+      "ru": "слово",
+      "example": "I can read a word.",
+      "topic": "school",
+      "emoji": "💬"
+    },
+    {
+      "en": "picture",
+      "ipa": "ˈpɪktʃə",
+      "ru": "картинка",
+      "example": "This picture is beautiful.",
+      "topic": "school",
+      "emoji": "🖼️"
+    },
+    {
+      "en": "page",
+      "ipa": "peɪdʒ",
+      "ru": "страница",
+      "example": "This is a page.",
+      "topic": "school",
+      "emoji": "📄"
+    },
+    {
+      "en": "question",
+      "ipa": "ˈkwestʃən",
+      "ru": "вопрос",
+      "example": "Do you have a question?",
+      "topic": "school",
+      "emoji": "❓"
+    },
+    {
+      "en": "lion",
+      "ipa": "ˈlaɪən",
+      "ru": "лев",
+      "example": "The lion is sleeping.",
+      "topic": "animals",
+      "emoji": "🦁"
+    },
+    {
+      "en": "tiger",
+      "ipa": "ˈtaɪɡə",
+      "ru": "тигр",
+      "example": "Is the tiger big?",
+      "topic": "animals",
+      "emoji": "🐯"
+    },
+    {
+      "en": "bear",
+      "ipa": "beə",
+      "ru": "медведь",
+      "example": "I see a bear.",
+      "topic": "animals",
+      "emoji": "🐻"
+    },
+    {
+      "en": "elephant",
+      "ipa": "ˈelɪfənt",
+      "ru": "слон",
+      "example": "An elephant has big ears.",
+      "topic": "animals",
+      "emoji": "🐘"
+    },
+    {
+      "en": "monkey",
+      "ipa": "ˈmʌŋki",
+      "ru": "обезьяна",
+      "example": "The monkey is in the tree.",
+      "topic": "animals",
+      "emoji": "🐒"
+    },
+    {
+      "en": "frog",
+      "ipa": "frɒɡ",
+      "ru": "лягушка",
+      "example": "The frog can swim.",
+      "topic": "animals",
+      "emoji": "🐸"
+    },
+    {
+      "en": "sheep",
+      "ipa": "ʃiːp",
+      "ru": "овца",
+      "example": "I see a sheep.",
+      "topic": "animals",
+      "emoji": "🐑"
+    },
+    {
+      "en": "goat",
+      "ipa": "ɡəʊt",
+      "ru": "коза",
+      "example": "I see a goat.",
+      "topic": "animals",
+      "emoji": "🐐"
+    },
+    {
+      "en": "snake",
+      "ipa": "sneɪk",
+      "ru": "змея",
+      "example": "I see a snake.",
+      "topic": "animals",
+      "emoji": "🐍"
+    },
+    {
+      "en": "bee",
+      "ipa": "biː",
+      "ru": "пчела",
+      "example": "I see a bee.",
+      "topic": "animals",
+      "emoji": "🐝"
+    },
+    {
+      "en": "grandmother",
+      "ipa": "ˈɡrænmʌðə",
+      "ru": "бабушка",
+      "example": "My grandmother reads to me.",
+      "topic": "family",
+      "emoji": "👵"
+    },
+    {
+      "en": "grandfather",
+      "ipa": "ˈɡrænfɑːðə",
+      "ru": "дедушка",
+      "example": "Grandfather has a big hat.",
+      "topic": "family",
+      "emoji": "👴"
+    },
+    {
+      "en": "aunt",
+      "ipa": "ɑːnt",
+      "ru": "тётя",
+      "example": "Is your aunt here?",
+      "topic": "family",
+      "emoji": "👩"
+    },
+    {
+      "en": "uncle",
+      "ipa": "ˈʌŋkəl",
+      "ru": "дядя",
+      "example": "My uncle drives a car.",
+      "topic": "family",
+      "emoji": "👨"
+    },
+    {
+      "en": "parents",
+      "ipa": "ˈpeərənts",
+      "ru": "родители",
+      "example": "My parents are at home.",
+      "topic": "family",
+      "emoji": "👫"
+    },
+    {
+      "en": "cousin",
+      "ipa": "ˈkʌzən",
+      "ru": "двоюродный брат или сестра",
+      "example": "This is my cousin.",
+      "topic": "family",
+      "emoji": "🧑"
+    },
+    {
+      "en": "son",
+      "ipa": "sʌn",
+      "ru": "сын",
+      "example": "This is her son.",
+      "topic": "family",
+      "emoji": "👦"
+    },
+    {
+      "en": "daughter",
+      "ipa": "ˈdɔːtə",
+      "ru": "дочь",
+      "example": "Her daughter does not like milk.",
+      "topic": "family",
+      "emoji": "👧"
+    },
+    {
+      "en": "man",
+      "ipa": "mæn",
+      "ru": "мужчина",
+      "example": "I see a man.",
+      "topic": "family",
+      "emoji": "🧔"
+    },
+    {
+      "en": "woman",
+      "ipa": "ˈwʊmən",
+      "ru": "женщина",
+      "example": "The woman is walking.",
+      "topic": "family",
+      "emoji": "👩"
+    },
+    {
+      "en": "kitchen",
+      "ipa": "ˈkɪtʃɪn",
+      "ru": "кухня",
+      "example": "I see a kitchen.",
+      "topic": "home",
+      "emoji": "🍳"
+    },
+    {
+      "en": "bathroom",
+      "ipa": "ˈbɑːθruːm",
+      "ru": "ванная комната",
+      "example": "I see a bathroom.",
+      "topic": "home",
+      "emoji": "🛁"
+    },
+    {
+      "en": "bedroom",
+      "ipa": "ˈbedruːm",
+      "ru": "спальня",
+      "example": "There is a bed in my bedroom.",
+      "topic": "home",
+      "emoji": "🛏️"
+    },
+    {
+      "en": "garden",
+      "ipa": "ˈɡɑːdən",
+      "ru": "сад",
+      "example": "We play in the garden.",
+      "topic": "home",
+      "emoji": "🏡"
+    },
+    {
+      "en": "key",
+      "ipa": "kiː",
+      "ru": "ключ",
+      "example": "Where is my key?",
+      "topic": "home",
+      "emoji": "🔑"
+    },
+    {
+      "en": "phone",
+      "ipa": "fəʊn",
+      "ru": "телефон",
+      "example": "I see a phone.",
+      "topic": "home",
+      "emoji": "📱"
+    },
+    {
+      "en": "mirror",
+      "ipa": "ˈmɪrə",
+      "ru": "зеркало",
+      "example": "I see a mirror.",
+      "topic": "home",
+      "emoji": "🪞"
+    },
+    {
+      "en": "shelf",
+      "ipa": "ʃelf",
+      "ru": "полка",
+      "example": "The book is on the shelf.",
+      "topic": "home",
+      "emoji": "🗄️"
+    },
+    {
+      "en": "carpet",
+      "ipa": "ˈkɑːpɪt",
+      "ru": "ковёр",
+      "example": "I see a carpet.",
+      "topic": "home",
+      "emoji": "🟫"
+    },
+    {
+      "en": "blanket",
+      "ipa": "ˈblæŋkɪt",
+      "ru": "одеяло",
+      "example": "I have a blanket.",
+      "topic": "home",
+      "emoji": "🛌"
+    },
+    {
+      "en": "pear",
+      "ipa": "peə",
+      "ru": "груша",
+      "example": "The pear is on the plate.",
+      "topic": "food",
+      "emoji": "🍐"
+    },
+    {
+      "en": "grape",
+      "ipa": "ɡreɪp",
+      "ru": "виноградина",
+      "example": "I see a grape.",
+      "topic": "food",
+      "emoji": "🍇"
+    },
+    {
+      "en": "lemon",
+      "ipa": "ˈlemən",
+      "ru": "лимон",
+      "example": "I see a lemon.",
+      "topic": "food",
+      "emoji": "🍋"
+    },
+    {
+      "en": "carrot",
+      "ipa": "ˈkærət",
+      "ru": "морковь",
+      "example": "The carrot is on the plate.",
+      "topic": "food",
+      "emoji": "🥕"
+    },
+    {
+      "en": "potato",
+      "ipa": "pəˈteɪtəʊ",
+      "ru": "картофелина",
+      "example": "I see a potato.",
+      "topic": "food",
+      "emoji": "🥔"
+    },
+    {
+      "en": "tomato",
+      "ipa": "təˈmɑːtəʊ",
+      "ru": "помидор",
+      "example": "I eat a tomato.",
+      "topic": "food",
+      "emoji": "🍅"
+    },
+    {
+      "en": "rice",
+      "ipa": "raɪs",
+      "ru": "рис",
+      "example": "I like rice.",
+      "topic": "food",
+      "emoji": "🍚"
+    },
+    {
+      "en": "soup",
+      "ipa": "suːp",
+      "ru": "суп",
+      "example": "I like soup.",
+      "topic": "food",
+      "emoji": "🍲"
+    },
+    {
+      "en": "meat",
+      "ipa": "miːt",
+      "ru": "мясо",
+      "example": "I eat meat.",
+      "topic": "food",
+      "emoji": "🥩"
+    },
+    {
+      "en": "butter",
+      "ipa": "ˈbʌtə",
+      "ru": "сливочное масло",
+      "example": "Put some butter on the bread.",
+      "topic": "food",
+      "emoji": "🧈"
+    },
+    {
+      "en": "arm",
+      "ipa": "ɑːm",
+      "ru": "рука от плеча до кисти",
+      "example": "Raise your arm.",
+      "topic": "body",
+      "emoji": "💪"
+    },
+    {
+      "en": "finger",
+      "ipa": "ˈfɪŋɡə",
+      "ru": "палец на руке",
+      "example": "Point with your finger.",
+      "topic": "body",
+      "emoji": "☝️"
+    },
+    {
+      "en": "toe",
+      "ipa": "təʊ",
+      "ru": "палец на ноге",
+      "example": "This is my little toe.",
+      "topic": "body",
+      "emoji": "🦶"
+    },
+    {
+      "en": "hair",
+      "ipa": "heə",
+      "ru": "волосы",
+      "example": "My hair is brown.",
+      "topic": "body",
+      "emoji": "💇"
+    },
+    {
+      "en": "face",
+      "ipa": "feɪs",
+      "ru": "лицо",
+      "example": "My face is clean.",
+      "topic": "body",
+      "emoji": "🙂"
+    },
+    {
+      "en": "tooth",
+      "ipa": "tuːθ",
+      "ru": "зуб",
+      "example": "Brush every tooth.",
+      "topic": "body",
+      "emoji": "🦷"
+    },
+    {
+      "en": "dress",
+      "ipa": "dres",
+      "ru": "платье",
+      "example": "I have a dress.",
+      "topic": "body",
+      "emoji": "👗"
+    },
+    {
+      "en": "coat",
+      "ipa": "kəʊt",
+      "ru": "пальто",
+      "example": "I have a coat.",
+      "topic": "body",
+      "emoji": "🧥"
+    },
+    {
+      "en": "hat",
+      "ipa": "hæt",
+      "ru": "шляпа",
+      "example": "Put on your hat.",
+      "topic": "body",
+      "emoji": "👒"
+    },
+    {
+      "en": "sock",
+      "ipa": "sɒk",
+      "ru": "носок",
+      "example": "My sock is on the bed.",
+      "topic": "body",
+      "emoji": "🧦"
+    },
+    {
+      "en": "lake",
+      "ipa": "leɪk",
+      "ru": "озеро",
+      "example": "I see a lake.",
+      "topic": "nature",
+      "emoji": "🏞️"
+    },
+    {
+      "en": "river",
+      "ipa": "ˈrɪvə",
+      "ru": "река",
+      "example": "We walk by the river.",
+      "topic": "nature",
+      "emoji": "🌊"
+    },
+    {
+      "en": "sea",
+      "ipa": "siː",
+      "ru": "море",
+      "example": "I see the sea.",
+      "topic": "nature",
+      "emoji": "🌊"
+    },
+    {
+      "en": "mountain",
+      "ipa": "ˈmaʊntɪn",
+      "ru": "гора",
+      "example": "The mountain is very high.",
+      "topic": "nature",
+      "emoji": "🏔️"
+    },
+    {
+      "en": "rock",
+      "ipa": "rɒk",
+      "ru": "камень",
+      "example": "Sit on the rock.",
+      "topic": "nature",
+      "emoji": "🪨"
+    },
+    {
+      "en": "sand",
+      "ipa": "sænd",
+      "ru": "песок",
+      "example": "I see sand.",
+      "topic": "nature",
+      "emoji": "🏖️"
+    },
+    {
+      "en": "cloud",
+      "ipa": "klaʊd",
+      "ru": "облако",
+      "example": "The cloud is white.",
+      "topic": "nature",
+      "emoji": "☁️"
+    },
+    {
+      "en": "wind",
+      "ipa": "wɪnd",
+      "ru": "ветер",
+      "example": "The wind is cold.",
+      "topic": "nature",
+      "emoji": "🌬️"
+    },
+    {
+      "en": "leaf",
+      "ipa": "liːf",
+      "ru": "лист дерева",
+      "example": "The leaf is green.",
+      "topic": "nature",
+      "emoji": "🍃"
+    },
+    {
+      "en": "bench",
+      "ipa": "bentʃ",
+      "ru": "скамейка",
+      "example": "I see a bench.",
+      "topic": "nature",
+      "emoji": "🪑"
+    },
+    {
+      "en": "brown",
+      "ipa": "braʊn",
+      "ru": "коричневый",
+      "example": "This colour is brown.",
+      "topic": "qualities",
+      "emoji": "🟤"
+    },
+    {
+      "en": "purple",
+      "ipa": "ˈpɜːpəl",
+      "ru": "фиолетовый",
+      "example": "Can you find purple?",
+      "topic": "qualities",
+      "emoji": "🟣"
+    },
+    {
+      "en": "grey",
+      "ipa": "ɡreɪ",
+      "ru": "серый",
+      "example": "Show me grey.",
+      "topic": "qualities",
+      "emoji": "🩶"
+    },
+    {
+      "en": "beautiful",
+      "ipa": "ˈbjuːtɪfəl",
+      "ru": "красивый",
+      "example": "Look at this beautiful flower.",
+      "topic": "qualities",
+      "emoji": "🌸"
+    },
+    {
+      "en": "ugly",
+      "ipa": "ˈʌɡli",
+      "ru": "некрасивый",
+      "example": "This old house looks ugly.",
+      "topic": "qualities",
+      "emoji": "🏚️"
+    },
+    {
+      "en": "fast",
+      "ipa": "fɑːst",
+      "ru": "быстрый",
+      "example": "The horse is fast.",
+      "topic": "qualities",
+      "emoji": "⚡"
+    },
+    {
+      "en": "slow",
+      "ipa": "sləʊ",
+      "ru": "медленный",
+      "example": "The snail is slow.",
+      "topic": "qualities",
+      "emoji": "🐌"
+    },
+    {
+      "en": "new",
+      "ipa": "njuː",
+      "ru": "новый",
+      "example": "I have a new book.",
+      "topic": "qualities",
+      "emoji": "✨"
+    },
+    {
+      "en": "old",
+      "ipa": "əʊld",
+      "ru": "старый",
+      "example": "The book is old.",
+      "topic": "qualities",
+      "emoji": "📜"
+    },
+    {
+      "en": "funny",
+      "ipa": "ˈfʌni",
+      "ru": "смешной",
+      "example": "The clown is very funny.",
+      "topic": "qualities",
+      "emoji": "🤡"
+    },
+    {
+      "en": "open",
+      "ipa": "ˈəʊpən",
+      "ru": "открывать",
+      "example": "I can open the door.",
+      "topic": "actions",
+      "emoji": "🔓"
+    },
+    {
+      "en": "close",
+      "ipa": "kləʊz",
+      "ru": "закрывать",
+      "example": "I can close the door.",
+      "topic": "actions",
+      "emoji": "🔒"
+    },
+    {
+      "en": "sit",
+      "ipa": "sɪt",
+      "ru": "сидеть",
+      "example": "I can sit.",
+      "topic": "actions",
+      "emoji": "🪑"
+    },
+    {
+      "en": "stand",
+      "ipa": "stænd",
+      "ru": "стоять",
+      "example": "I can stand.",
+      "topic": "actions",
+      "emoji": "🧍"
+    },
+    {
+      "en": "listen",
+      "ipa": "ˈlɪsən",
+      "ru": "слушать",
+      "example": "Listen to the teacher.",
+      "topic": "actions",
+      "emoji": "👂"
+    },
+    {
+      "en": "speak",
+      "ipa": "spiːk",
+      "ru": "говорить",
+      "example": "She does not speak English.",
+      "topic": "actions",
+      "emoji": "🗣️"
+    },
+    {
+      "en": "sing",
+      "ipa": "sɪŋ",
+      "ru": "петь",
+      "example": "We sing together.",
+      "topic": "actions",
+      "emoji": "🎤"
+    },
+    {
+      "en": "dance",
+      "ipa": "dɑːns",
+      "ru": "танцевать",
+      "example": "I can dance.",
+      "topic": "actions",
+      "emoji": "💃"
+    },
+    {
+      "en": "draw",
+      "ipa": "drɔː",
+      "ru": "рисовать",
+      "example": "Draw a little cat.",
+      "topic": "actions",
+      "emoji": "🖍️"
+    },
+    {
+      "en": "watch",
+      "ipa": "wɒtʃ",
+      "ru": "смотреть, наблюдать",
+      "example": "We watch the birds together.",
+      "topic": "actions",
+      "emoji": "👀"
+    },
+    {
+      "en": "doctor",
+      "ipa": "ˈdɒktə",
+      "ru": "врач",
+      "example": "A doctor helps people.",
+      "topic": "professions",
+      "emoji": "🧑‍⚕️"
+    },
+    {
+      "en": "nurse",
+      "ipa": "nɜːs",
+      "ru": "медсестра, медбрат",
+      "example": "The nurse is at work.",
+      "topic": "professions",
+      "emoji": "🏥"
+    },
+    {
+      "en": "cook",
+      "ipa": "kʊk",
+      "ru": "повар",
+      "example": "Can the cook make soup?",
+      "topic": "professions",
+      "emoji": "🧑‍🍳"
+    },
+    {
+      "en": "farmer",
+      "ipa": "ˈfɑːmə",
+      "ru": "фермер",
+      "example": "The farmer has a cow.",
+      "topic": "professions",
+      "emoji": "🧑‍🌾"
+    },
+    {
+      "en": "driver",
+      "ipa": "ˈdraɪvə",
+      "ru": "водитель",
+      "example": "I see a driver.",
+      "topic": "professions",
+      "emoji": "🚗"
+    },
+    {
+      "en": "pilot",
+      "ipa": "ˈpaɪlət",
+      "ru": "пилот",
+      "example": "A pilot flies a plane.",
+      "topic": "professions",
+      "emoji": "🧑‍✈️"
+    },
+    {
+      "en": "dentist",
+      "ipa": "ˈdentɪst",
+      "ru": "стоматолог",
+      "example": "I see a dentist.",
+      "topic": "professions",
+      "emoji": "🦷"
+    },
+    {
+      "en": "vet",
+      "ipa": "vet",
+      "ru": "ветеринар",
+      "example": "A vet helps animals.",
+      "topic": "professions",
+      "emoji": "🐾"
+    },
+    {
+      "en": "firefighter",
+      "ipa": "ˈfaɪəfaɪtə",
+      "ru": "пожарный",
+      "example": "I see a firefighter.",
+      "topic": "professions",
+      "emoji": "🧑‍🚒"
+    },
+    {
+      "en": "builder",
+      "ipa": "ˈbɪldə",
+      "ru": "строитель",
+      "example": "I see a builder.",
+      "topic": "professions",
+      "emoji": "👷"
+    },
+    {
+      "en": "artist",
+      "ipa": "ˈɑːtɪst",
+      "ru": "художник",
+      "example": "I see an artist.",
+      "topic": "professions",
+      "emoji": "🧑‍🎨"
+    },
+    {
+      "en": "singer",
+      "ipa": "ˈsɪŋə",
+      "ru": "певец, певица",
+      "example": "I see a singer.",
+      "topic": "professions",
+      "emoji": "🎤"
+    },
+    {
+      "en": "dancer",
+      "ipa": "ˈdɑːnsə",
+      "ru": "танцор, танцовщица",
+      "example": "The dancer is on the stage.",
+      "topic": "professions",
+      "emoji": "💃"
+    },
+    {
+      "en": "actor",
+      "ipa": "ˈæktə",
+      "ru": "актёр",
+      "example": "I see an actor.",
+      "topic": "professions",
+      "emoji": "🎭"
+    },
+    {
+      "en": "writer",
+      "ipa": "ˈraɪtə",
+      "ru": "писатель",
+      "example": "The writer has a new book.",
+      "topic": "professions",
+      "emoji": "✍️"
+    },
+    {
+      "en": "painter",
+      "ipa": "ˈpeɪntə",
+      "ru": "маляр, художник",
+      "example": "A painter paints the wall.",
+      "topic": "professions",
+      "emoji": "🖌️"
+    },
+    {
+      "en": "scientist",
+      "ipa": "ˈsaɪəntɪst",
+      "ru": "учёный",
+      "example": "I see a scientist.",
+      "topic": "professions",
+      "emoji": "🧑‍🔬"
+    },
+    {
+      "en": "astronaut",
+      "ipa": "ˈæstrənɔːt",
+      "ru": "космонавт",
+      "example": "An astronaut works in space.",
+      "topic": "professions",
+      "emoji": "🧑‍🚀"
+    },
+    {
+      "en": "mechanic",
+      "ipa": "məˈkænɪk",
+      "ru": "механик",
+      "example": "The mechanic fixes cars.",
+      "topic": "professions",
+      "emoji": "🧑‍🔧"
+    },
+    {
+      "en": "baker",
+      "ipa": "ˈbeɪkə",
+      "ru": "пекарь",
+      "example": "A baker makes bread.",
+      "topic": "professions",
+      "emoji": "🥖"
+    },
+    {
+      "en": "football",
+      "ipa": "ˈfʊtbɔːl",
+      "ru": "футбол",
+      "example": "We play football after school.",
+      "topic": "sport",
+      "emoji": "⚽"
+    },
+    {
+      "en": "basketball",
+      "ipa": "ˈbɑːskɪtbɔːl",
+      "ru": "баскетбол",
+      "example": "He is playing basketball.",
+      "topic": "sport",
+      "emoji": "🏀"
+    },
+    {
+      "en": "tennis",
+      "ipa": "ˈtenɪs",
+      "ru": "теннис",
+      "example": "Do you have a tennis racket?",
+      "topic": "sport",
+      "emoji": "🎾"
+    },
+    {
+      "en": "swimming",
+      "ipa": "ˈswɪmɪŋ",
+      "ru": "плавание",
+      "example": "Swimming is fun.",
+      "topic": "sport",
+      "emoji": "🏊"
+    },
+    {
+      "en": "running",
+      "ipa": "ˈrʌnɪŋ",
+      "ru": "бег",
+      "example": "Running keeps me fit.",
+      "topic": "sport",
+      "emoji": "🏃"
+    },
+    {
+      "en": "cycling",
+      "ipa": "ˈsaɪklɪŋ",
+      "ru": "велоспорт",
+      "example": "We go cycling together.",
+      "topic": "sport",
+      "emoji": "🚴"
+    },
+    {
+      "en": "skating",
+      "ipa": "ˈskeɪtɪŋ",
+      "ru": "катание на коньках",
+      "example": "Skating is fun.",
+      "topic": "sport",
+      "emoji": "⛸️"
+    },
+    {
+      "en": "skiing",
+      "ipa": "ˈskiːɪŋ",
+      "ru": "катание на лыжах",
+      "example": "We go skiing in winter.",
+      "topic": "sport",
+      "emoji": "⛷️"
+    },
+    {
+      "en": "boxing",
+      "ipa": "ˈbɒksɪŋ",
+      "ru": "бокс",
+      "example": "These are my boxing gloves.",
+      "topic": "sport",
+      "emoji": "🥊"
+    },
+    {
+      "en": "chess",
+      "ipa": "tʃes",
+      "ru": "шахматы",
+      "example": "Can you play chess?",
+      "topic": "sport",
+      "emoji": "♟️"
+    },
+    {
+      "en": "volleyball",
+      "ipa": "ˈvɒlibɔːl",
+      "ru": "волейбол",
+      "example": "They play volleyball on the beach.",
+      "topic": "sport",
+      "emoji": "🏐"
+    },
+    {
+      "en": "baseball",
+      "ipa": "ˈbeɪsbɔːl",
+      "ru": "бейсбол",
+      "example": "Catch the baseball, please.",
+      "topic": "sport",
+      "emoji": "⚾"
+    },
+    {
+      "en": "hockey",
+      "ipa": "ˈhɒki",
+      "ru": "хоккей",
+      "example": "He is playing hockey.",
+      "topic": "sport",
+      "emoji": "🏒"
+    },
+    {
+      "en": "badminton",
+      "ipa": "ˈbædmɪntən",
+      "ru": "бадминтон",
+      "example": "This is my badminton racket.",
+      "topic": "sport",
+      "emoji": "🏸"
+    },
+    {
+      "en": "golf",
+      "ipa": "ɡɒlf",
+      "ru": "гольф",
+      "example": "I do not play golf.",
+      "topic": "sport",
+      "emoji": "⛳"
+    },
+    {
+      "en": "rugby",
+      "ipa": "ˈrʌɡbi",
+      "ru": "регби",
+      "example": "Rugby is a team sport.",
+      "topic": "sport",
+      "emoji": "🏉"
+    },
+    {
+      "en": "surfing",
+      "ipa": "ˈsɜːfɪŋ",
+      "ru": "сёрфинг",
+      "example": "Surfing is fun.",
+      "topic": "sport",
+      "emoji": "🏄"
+    },
+    {
+      "en": "dancing",
+      "ipa": "ˈdɑːnsɪŋ",
+      "ru": "танцы",
+      "example": "Dancing makes me happy.",
+      "topic": "sport",
+      "emoji": "💃"
+    },
+    {
+      "en": "yoga",
+      "ipa": "ˈjəʊɡə",
+      "ru": "йога",
+      "example": "Yoga helps me relax.",
+      "topic": "sport",
+      "emoji": "🧘"
+    },
+    {
+      "en": "gymnastics",
+      "ipa": "dʒɪmˈnæstɪks",
+      "ru": "гимнастика",
+      "example": "She does gymnastics every day.",
+      "topic": "sport",
+      "emoji": "🤸"
+    }
+  ],
+  "topics": [
+    {
+      "id": "backpack",
+      "title": "Мой рюкзак"
+    },
+    {
+      "id": "school",
+      "title": "В школе"
+    },
+    {
+      "id": "animals",
+      "title": "Животные"
+    },
+    {
+      "id": "family",
+      "title": "Семья и друзья"
+    },
+    {
+      "id": "home",
+      "title": "Дома"
+    },
+    {
+      "id": "food",
+      "title": "Еда и напитки"
+    },
+    {
+      "id": "body",
+      "title": "Тело и одежда"
+    },
+    {
+      "id": "nature",
+      "title": "На улице"
+    },
+    {
+      "id": "qualities",
+      "title": "Цвета и качества"
+    },
+    {
+      "id": "actions",
+      "title": "Действия"
+    },
+    {
+      "id": "professions",
+      "title": "Профессии"
+    },
+    {
+      "id": "sport",
+      "title": "Спорт"
+    }
+  ]
+}

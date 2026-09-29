@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+/src/curriculum.json
+/.venv/
+/node_modules/

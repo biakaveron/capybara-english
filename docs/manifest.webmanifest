@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Английский с капибарой",
+  "short_name": "Капибара",
+  "description": "49 учебных блоков: звуки, грамматика, фразы, чтение, слушание, числа и время, приключения и занятия со стилусом; словарь из 240 слов.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3fb",
+  "theme_color": "#1653e8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
