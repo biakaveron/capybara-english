@@ -7,6 +7,7 @@
 .object.red img{filter:brightness(0) saturate(100%) invert(34%) sepia(59%) saturate(2910%) hue-rotate(337deg) brightness(90%) contrast(90%)}.object.blue img{filter:brightness(0) saturate(100%) invert(27%) sepia(86%) saturate(3476%) hue-rotate(221deg) brightness(88%) contrast(93%)}.object.teal img{filter:brightness(0) saturate(100%) invert(38%) sepia(74%) saturate(535%) hue-rotate(122deg) brightness(89%) contrast(94%)}
 
 .english-inline{background:#edf3ff;color:#174aa6;border-radius:5px;padding:1px 5px;box-decoration-break:clone;-webkit-box-decoration-break:clone;unicode-bidi:isolate;overflow-wrap:anywhere}
+.dictionary-group{margin-top:28px}.dictionary-group .subheading{margin-bottom:12px}.dictionary-group .word-grid{margin-top:0}
 .comprehension-question{font-size:24px;font-weight:750;line-height:1.4;margin:22px 0 18px}
 .activity-header p:empty{display:none}
 .session-top{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;margin-bottom:24px}

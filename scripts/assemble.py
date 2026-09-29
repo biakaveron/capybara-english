@@ -1,5 +1,6 @@
 from pathlib import Path
 import json,re
+VERSION=20
 base=Path(__file__).resolve().parent.parent/'src'
 root=base.parent/'docs'
 v=json.loads((base/'curriculum-vocab.json').read_text(encoding='utf-8'))
@@ -9,11 +10,14 @@ for name,data in [('VOCAB',v['words']),('TOPICS',v['topics']),('CURRICULUM',cata
 (root/'app.js').write_text(prefix+(base/'learning-expansion-runtime.js').read_text(encoding='utf-8')+'\n'+(base/'curriculum-runtime.js').read_text(encoding='utf-8'),encoding='utf-8')
 (root/'style.css').write_text((base/'curriculum.css').read_text(encoding='utf-8'),encoding='utf-8')
 (root/'index.html').write_text('''<!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#1653e8"><meta name="description" content="Английский с капибарой: 49 учебных блоков, 240 слов, грамматика, чтение, слушание, числа и часы."><title>Английский с капибарой</title><link rel="icon" type="image/svg+xml" href="icon.svg"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="style.css?v=19"><script src="app.js?v=19" defer></script></head>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#1653e8"><meta name="description" content="Английский с капибарой: __MODULE_COUNT__ учебных блоков, __WORD_COUNT__ слов, грамматика, чтение, слушание, числа и часы."><title>Английский с капибарой</title><link rel="icon" type="image/svg+xml" href="icon.svg"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="style.css?v=__VERSION__"><script src="app.js?v=__VERSION__" defer></script></head>
 <body><header class="topbar"><a href="./" class="brand" aria-label="Английский с капибарой — на главную"><span class="brand-mark"><img src="assets/capybara.svg" alt=""></span><span>Капибара<span class="brand-sub">учим английский</span></span></a><div class="header-actions"><span class="saved" id="saved">Сохраняем на устройстве</span><button class="icon-button" id="settings" aria-label="Настройки и результаты для родителя"><img src="assets/settings-2.svg" alt=""></button></div></header>
 <main class="shell"><nav class="main-nav" id="main-nav" aria-label="Основные разделы"></nav><div class="workspace"><section class="activity" id="activity" aria-labelledby="activity-title"></section><aside class="side-panel" id="side-panel"></aside></div><p class="storage-note" id="storage-note"></p></main><div class="toast" id="toast" role="status" hidden></div>
 <dialog id="settings-dialog" aria-labelledby="settings-title"><form method="dialog"><button class="icon-button dialog-close" aria-label="Закрыть настройки"><img src="assets/x.svg" alt=""></button></form><span class="eyebrow">ДЛЯ ЗАНЯТИЯ</span><h2 id="settings-title">Настройки</h2><label class="field-label" for="voice">Английский голос</label><select id="voice"></select><p class="muted" id="voice-status"></p><label class="field-label" for="speed">Скорость: <span id="speed-value">0.85</span></label><input type="range" id="speed" min="0.65" max="1" step="0.05" value="0.85"><button class="primary" id="test-voice"><img src="assets/volume-2.svg" alt="">Послушать пример</button><p class="muted">Для звуковых заданий нужен английский голос. Голос может требовать интернет; перед автономным занятием проверьте звук в авиарежиме. Для фонетики предпочтителен британский голос.</p><details class="parent-details"><summary>Для родителя</summary><div id="parent-content"></div></details></dialog>
 <dialog id="help-dialog" aria-labelledby="help-title"><form method="dialog"><button class="icon-button dialog-close" aria-label="Закрыть объяснение"><img src="assets/x.svg" alt=""></button></form><span class="eyebrow">РАЗБЕРЁМСЯ</span><h2 id="help-title"></h2><div id="help-content"></div></dialog>
-</body></html>''',encoding='utf-8')
-p=root/'sw.js';s=p.read_text(encoding='utf-8');s=re.sub(r'assets-v\d+','assets-v19',s);s=re.sub(r'\?v=\d+','?v=19',s);p.write_text(s,encoding='utf-8')
+</body></html>'''.replace('__MODULE_COUNT__',str(len(catalog['modules']))).replace('__WORD_COUNT__',str(len(v['words']))).replace('__VERSION__',str(VERSION)),encoding='utf-8')
+p=root/'sw.js';s=p.read_text(encoding='utf-8');s=re.sub(r'assets-v\d+',f'assets-v{VERSION}',s);s=re.sub(r'\?v=\d+',f'?v={VERSION}',s);p.write_text(s,encoding='utf-8')
+p=root/'manifest.webmanifest';manifest=json.loads(p.read_text(encoding='utf-8'))
+manifest['description']=f"{len(catalog['modules'])} учебных блоков: звуки, грамматика, фразы, чтение, слушание, числа и время, приключения и занятия со стилусом; словарь из {len(v['words'])} слов."
+p.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Curriculum source assembled.')

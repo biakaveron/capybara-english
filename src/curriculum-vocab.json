@@ -1944,6 +1944,213 @@
       "example": "She does gymnastics every day.",
       "topic": "sport",
       "emoji": "🤸"
+    },
+    {
+      "en": "spring",
+      "ipa": "sprɪŋ",
+      "ru": "весна",
+      "example": "Flowers grow in spring.",
+      "topic": "calendar",
+      "group": "seasons",
+      "emoji": "🌷"
+    },
+    {
+      "en": "summer",
+      "ipa": "ˈsʌmə",
+      "ru": "лето",
+      "example": "We swim in summer.",
+      "topic": "calendar",
+      "group": "seasons",
+      "emoji": "☀️"
+    },
+    {
+      "en": "autumn",
+      "ipa": "ˈɔːtəm",
+      "ru": "осень",
+      "example": "Leaves fall in autumn.",
+      "topic": "calendar",
+      "group": "seasons",
+      "emoji": "🍂"
+    },
+    {
+      "en": "winter",
+      "ipa": "ˈwɪntə",
+      "ru": "зима",
+      "example": "I wear a warm coat in winter.",
+      "topic": "calendar",
+      "group": "seasons",
+      "emoji": "❄️"
+    },
+    {
+      "en": "January",
+      "ipa": "ˈdʒænjuəri",
+      "ru": "январь",
+      "example": "January is the first month of the year.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "❄️"
+    },
+    {
+      "en": "February",
+      "ipa": "ˈfebruəri",
+      "ru": "февраль",
+      "example": "February comes after January.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🧣"
+    },
+    {
+      "en": "March",
+      "ipa": "mɑːtʃ",
+      "ru": "март",
+      "example": "Spring begins in March.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🌱"
+    },
+    {
+      "en": "April",
+      "ipa": "ˈeɪprəl",
+      "ru": "апрель",
+      "example": "It often rains in April.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "☔"
+    },
+    {
+      "en": "May",
+      "ipa": "meɪ",
+      "ru": "май",
+      "example": "We see many flowers in May.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🌼"
+    },
+    {
+      "en": "June",
+      "ipa": "dʒuːn",
+      "ru": "июнь",
+      "example": "Summer begins in June.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "☀️"
+    },
+    {
+      "en": "July",
+      "ipa": "dʒuˈlaɪ",
+      "ru": "июль",
+      "example": "We go to the beach in July.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🏖️"
+    },
+    {
+      "en": "August",
+      "ipa": "ˈɔːɡəst",
+      "ru": "август",
+      "example": "August comes before September.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🌻"
+    },
+    {
+      "en": "September",
+      "ipa": "sepˈtembə",
+      "ru": "сентябрь",
+      "example": "I go to school in September.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🎒"
+    },
+    {
+      "en": "October",
+      "ipa": "ɒkˈtəʊbə",
+      "ru": "октябрь",
+      "example": "The leaves are yellow in October.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🍁"
+    },
+    {
+      "en": "November",
+      "ipa": "nəʊˈvembə",
+      "ru": "ноябрь",
+      "example": "The days are short in November.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🌧️"
+    },
+    {
+      "en": "December",
+      "ipa": "dɪˈsembə",
+      "ru": "декабрь",
+      "example": "December is the last month of the year.",
+      "topic": "calendar",
+      "group": "months",
+      "emoji": "🎄"
+    },
+    {
+      "en": "Monday",
+      "ipa": "ˈmʌndeɪ",
+      "ru": "понедельник",
+      "example": "I go to school on Monday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "🎒"
+    },
+    {
+      "en": "Tuesday",
+      "ipa": "ˈtjuːzdeɪ",
+      "ru": "вторник",
+      "example": "We draw pictures on Tuesday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "🎨"
+    },
+    {
+      "en": "Wednesday",
+      "ipa": "ˈwenzdeɪ",
+      "ru": "среда",
+      "example": "I read a book on Wednesday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "📖"
+    },
+    {
+      "en": "Thursday",
+      "ipa": "ˈθɜːzdeɪ",
+      "ru": "четверг",
+      "example": "We play football on Thursday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "⚽"
+    },
+    {
+      "en": "Friday",
+      "ipa": "ˈfraɪdeɪ",
+      "ru": "пятница",
+      "example": "I see my friends on Friday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "👋"
+    },
+    {
+      "en": "Saturday",
+      "ipa": "ˈsætədeɪ",
+      "ru": "суббота",
+      "example": "We visit Grandma on Saturday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "🏡"
+    },
+    {
+      "en": "Sunday",
+      "ipa": "ˈsʌndeɪ",
+      "ru": "воскресенье",
+      "example": "My family goes to the park on Sunday.",
+      "topic": "calendar",
+      "group": "weekdays",
+      "emoji": "🌳"
     }
   ],
   "topics": [
@@ -1994,6 +2201,25 @@
     {
       "id": "sport",
       "title": "Спорт"
+    },
+    {
+      "id": "calendar",
+      "title": "Календарь",
+      "description": "Времена года, месяцы и дни недели. Названия месяцев и дней недели в английском пишутся с заглавной буквы.",
+      "groups": [
+        {
+          "id": "seasons",
+          "title": "Времена года"
+        },
+        {
+          "id": "months",
+          "title": "Месяцы"
+        },
+        {
+          "id": "weekdays",
+          "title": "Дни недели"
+        }
+      ]
     }
   ]
 }

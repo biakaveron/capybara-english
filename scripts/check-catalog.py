@@ -2,7 +2,19 @@ import json
 from pathlib import Path
 base=Path(__file__).resolve().parent.parent/'src'
 catalog=json.loads((base/'curriculum.json').read_text(encoding='utf-8'))
-vocab={w['en']:w for w in json.loads((base/'curriculum-vocab.json').read_text(encoding='utf-8'))['words']}
+dictionary=json.loads((base/'curriculum-vocab.json').read_text(encoding='utf-8'))
+vocab={w['en']:w for w in dictionary['words']}
+topics={t['id']:t for t in dictionary['topics']}
+assert len(vocab)==len(dictionary['words']), 'Duplicate dictionary words'
+assert len(topics)==len(dictionary['topics']), 'Duplicate dictionary topics'
+for topic in topics.values():
+    groups=topic.get('groups',[])
+    assert len({g['id'] for g in groups})==len(groups),topic['id']
+    for group in groups:assert group['title'] and any(w.get('group')==group['id'] and w['topic']==topic['id'] for w in vocab.values()),group['id']
+for word in vocab.values():
+    assert all(word.get(key) for key in ['en','ipa','ru','example','topic']),word['en']
+    assert word['topic'] in topics,word['en']
+    if topics[word['topic']].get('groups'):assert word.get('group') in {g['id'] for g in topics[word['topic']]['groups']},word['en']
 def fingerprint(q):
     fields={k:q.get(k) for k in ['kind','stimulus','speech','complete','figure','hour','minute','acceptedText','pairs']}
     if 'choices' in q:fields['choices']=sorted(json.dumps(c,sort_keys=True) for c in q['choices'])

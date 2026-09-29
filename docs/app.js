@@ -1945,6 +1945,213 @@ const VOCAB = [
     "example": "She does gymnastics every day.",
     "topic": "sport",
     "emoji": "🤸"
+  },
+  {
+    "en": "spring",
+    "ipa": "sprɪŋ",
+    "ru": "весна",
+    "example": "Flowers grow in spring.",
+    "topic": "calendar",
+    "group": "seasons",
+    "emoji": "🌷"
+  },
+  {
+    "en": "summer",
+    "ipa": "ˈsʌmə",
+    "ru": "лето",
+    "example": "We swim in summer.",
+    "topic": "calendar",
+    "group": "seasons",
+    "emoji": "☀️"
+  },
+  {
+    "en": "autumn",
+    "ipa": "ˈɔːtəm",
+    "ru": "осень",
+    "example": "Leaves fall in autumn.",
+    "topic": "calendar",
+    "group": "seasons",
+    "emoji": "🍂"
+  },
+  {
+    "en": "winter",
+    "ipa": "ˈwɪntə",
+    "ru": "зима",
+    "example": "I wear a warm coat in winter.",
+    "topic": "calendar",
+    "group": "seasons",
+    "emoji": "❄️"
+  },
+  {
+    "en": "January",
+    "ipa": "ˈdʒænjuəri",
+    "ru": "январь",
+    "example": "January is the first month of the year.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "❄️"
+  },
+  {
+    "en": "February",
+    "ipa": "ˈfebruəri",
+    "ru": "февраль",
+    "example": "February comes after January.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🧣"
+  },
+  {
+    "en": "March",
+    "ipa": "mɑːtʃ",
+    "ru": "март",
+    "example": "Spring begins in March.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🌱"
+  },
+  {
+    "en": "April",
+    "ipa": "ˈeɪprəl",
+    "ru": "апрель",
+    "example": "It often rains in April.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "☔"
+  },
+  {
+    "en": "May",
+    "ipa": "meɪ",
+    "ru": "май",
+    "example": "We see many flowers in May.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🌼"
+  },
+  {
+    "en": "June",
+    "ipa": "dʒuːn",
+    "ru": "июнь",
+    "example": "Summer begins in June.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "☀️"
+  },
+  {
+    "en": "July",
+    "ipa": "dʒuˈlaɪ",
+    "ru": "июль",
+    "example": "We go to the beach in July.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🏖️"
+  },
+  {
+    "en": "August",
+    "ipa": "ˈɔːɡəst",
+    "ru": "август",
+    "example": "August comes before September.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🌻"
+  },
+  {
+    "en": "September",
+    "ipa": "sepˈtembə",
+    "ru": "сентябрь",
+    "example": "I go to school in September.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🎒"
+  },
+  {
+    "en": "October",
+    "ipa": "ɒkˈtəʊbə",
+    "ru": "октябрь",
+    "example": "The leaves are yellow in October.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🍁"
+  },
+  {
+    "en": "November",
+    "ipa": "nəʊˈvembə",
+    "ru": "ноябрь",
+    "example": "The days are short in November.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🌧️"
+  },
+  {
+    "en": "December",
+    "ipa": "dɪˈsembə",
+    "ru": "декабрь",
+    "example": "December is the last month of the year.",
+    "topic": "calendar",
+    "group": "months",
+    "emoji": "🎄"
+  },
+  {
+    "en": "Monday",
+    "ipa": "ˈmʌndeɪ",
+    "ru": "понедельник",
+    "example": "I go to school on Monday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "🎒"
+  },
+  {
+    "en": "Tuesday",
+    "ipa": "ˈtjuːzdeɪ",
+    "ru": "вторник",
+    "example": "We draw pictures on Tuesday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "🎨"
+  },
+  {
+    "en": "Wednesday",
+    "ipa": "ˈwenzdeɪ",
+    "ru": "среда",
+    "example": "I read a book on Wednesday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "📖"
+  },
+  {
+    "en": "Thursday",
+    "ipa": "ˈθɜːzdeɪ",
+    "ru": "четверг",
+    "example": "We play football on Thursday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "⚽"
+  },
+  {
+    "en": "Friday",
+    "ipa": "ˈfraɪdeɪ",
+    "ru": "пятница",
+    "example": "I see my friends on Friday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "👋"
+  },
+  {
+    "en": "Saturday",
+    "ipa": "ˈsætədeɪ",
+    "ru": "суббота",
+    "example": "We visit Grandma on Saturday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "🏡"
+  },
+  {
+    "en": "Sunday",
+    "ipa": "ˈsʌndeɪ",
+    "ru": "воскресенье",
+    "example": "My family goes to the park on Sunday.",
+    "topic": "calendar",
+    "group": "weekdays",
+    "emoji": "🌳"
   }
 ];
 const TOPICS = [
@@ -1995,6 +2202,25 @@ const TOPICS = [
   {
     "id": "sport",
     "title": "Спорт"
+  },
+  {
+    "id": "calendar",
+    "title": "Календарь",
+    "description": "Времена года, месяцы и дни недели. Названия месяцев и дней недели в английском пишутся с заглавной буквы.",
+    "groups": [
+      {
+        "id": "seasons",
+        "title": "Времена года"
+      },
+      {
+        "id": "months",
+        "title": "Месяцы"
+      },
+      {
+        "id": "weekdays",
+        "title": "Дни недели"
+      }
+    ]
   }
 ];
 const CURRICULUM = {
@@ -38981,7 +39207,7 @@ const icon=name=>`<img src="assets/${name}.svg" alt="" aria-hidden="true">`;
 const MODULES=new Map(CURRICULUM.modules.map(m=>[m.id,m]));
 const TASKS=new Map(CURRICULUM.modules.flatMap(m=>[...m.tasks,...(m.assessmentTasks||[])].map(q=>[q.id,q])));
 const WORDS=new Map(VOCAB.map(w=>[w.en,w]));
-const TOPIC_ICONS={backpack:'🎒',school:'🏫',animals:'🐱',family:'👨‍👩‍👧‍👦',home:'🏠',food:'🍎',body:'✋',nature:'🌳',qualities:'🎨',actions:'🏃',professions:'🧑‍⚕️',sport:'🏅'};
+const TOPIC_ICONS={backpack:'🎒',school:'🏫',animals:'🐱',family:'👨‍👩‍👧‍👦',home:'🏠',food:'🍎',body:'✋',nature:'🌳',qualities:'🎨',actions:'🏃',professions:'🧑‍⚕️',sport:'🏅',calendar:'📅'};
 const now=()=>Date.now();
 function freshState(){return {version:1,voice:'',rate:.85,focusModule:null,words:[],training:{},tests:{},review:{},practice:null,daily:null};}
 let state=freshState(),storageAvailable=true,tab='today',view='home',activeModule=null,activeSection=null,wordTopic=null,activeWord=null,resultTarget=null,resultIndex=0;
@@ -39215,9 +39441,13 @@ function renderReview(){
  $('activity').innerHTML=heading('Повторяем','Трудные задания возвращаются сразу; успешные — через 1, 3, 7 и 14 дней.')+`<div class="training-card"><h2>${due.length?'Есть что повторить':'На сейчас всё повторено'}</h2><p>${due.length} заданий сейчас · ${later} назначено на следующие дни.</p><div class="button-row">${due.length||active?`<button class="primary" id="review-start">${active?'Продолжить повторение':'Повторить сейчас'}</button>`:''}${Object.keys(state.review).length?'<button class="secondary" id="review-all">Повторить заранее</button>':''}<button class="text-button" data-home="learn">Выбрать новый блок</button></div></div><div class="review-list">${due.slice(0,12).map(q=>`<div><strong>${mixed(MODULES.get(q.moduleId).title)}</strong><span>${mixed(q.audioOnly?'Задание на слух':q.stimulus||q.ru||q.prompt)}</span></div>`).join('')}</div>`;
  if($('review-start'))$('review-start').onclick=()=>startReview();if($('review-all'))$('review-all').onclick=()=>startReview(true);progressSide();
 }
+function dictionaryWordList(words,topic){
+ const grid=list=>`<div class="word-grid">${list.map(w=>`<button class="word-button ${state.words.includes(w.en)?'viewed':''} ${w.en===activeWord?'current':''}" data-word="${esc(w.en)}" lang="en">${esc(w.en)}${state.words.includes(w.en)?'<span aria-label="Повторено"> ✓</span>':''}</button>`).join('')}</div>`;
+ return topic.groups?topic.groups.map(g=>`<section class="dictionary-group"><h2 class="subheading">${esc(g.title)}</h2>${grid(words.filter(w=>w.group===g.id))}</section>`).join(''):grid(words);
+}
 function renderDictionary(){
- if(!wordTopic){$('activity').innerHTML=heading('Наш словарь','240 слов: картинки, транскрипция и примеры.')+`<div class="section-grid dictionary-topics">${TOPICS.map(t=>{const words=VOCAB.filter(w=>w.topic===t.id);return `<button class="section-card" data-word-topic="${t.id}"><span aria-hidden="true">${TOPIC_ICONS[t.id]}</span><strong>${t.title}</strong><small>${words.filter(w=>state.words.includes(w.en)).length}/${words.length} повторено</small></button>`;}).join('')}</div>`;$('activity').querySelectorAll('[data-word-topic]').forEach(b=>b.onclick=()=>{wordTopic=b.dataset.wordTopic;activeWord=null;render();});}
- else{const words=VOCAB.filter(w=>w.topic===wordTopic),w=WORDS.get(activeWord);$('activity').innerHTML=`<button class="text-button" id="dictionary-back">Все словарные темы</button>`+heading(TOPICS.find(t=>t.id===wordTopic).title,'Выбери слово, послушай и повтори.')+(w?`<div class="word-stage">${scene({word:w.en})}<div><div class="word-en" lang="en">${esc(w.en)}</div><div class="word-ipa" lang="en">[${esc(w.ipa)}]</div><div class="word-ru">${esc(w.ru)}</div><p class="word-example" lang="en">${esc(w.example)}</p><div class="button-row"><button class="secondary" data-speech="${esc(w.en)}">${icon('volume-2')}Слово</button><button class="secondary" data-speech="${esc(w.example)}">${icon('volume-2')}Фраза</button></div></div></div><button class="primary" id="mark-word">${state.words.includes(w.en)?'Слово уже повторено':'Я повторила слово'}</button>`:'<div class="word-empty">📖<h2>Выбери слово ниже</h2><p>Открытие темы и карточки не засчитывается как повторение.</p></div>')+`<div class="word-grid">${words.map(w=>`<button class="word-button ${state.words.includes(w.en)?'viewed':''} ${w.en===activeWord?'current':''}" data-word="${esc(w.en)}" lang="en">${esc(w.en)}${state.words.includes(w.en)?'<span aria-label="Повторено"> ✓</span>':''}</button>`).join('')}</div>`;
+ if(!wordTopic){$('activity').innerHTML=heading('Наш словарь',`${VOCAB.length} слов: картинки, транскрипция и примеры.`)+`<div class="section-grid dictionary-topics">${TOPICS.map(t=>{const words=VOCAB.filter(w=>w.topic===t.id);return `<button class="section-card" data-word-topic="${t.id}"><span aria-hidden="true">${TOPIC_ICONS[t.id]}</span><strong>${t.title}</strong><small>${words.filter(w=>state.words.includes(w.en)).length}/${words.length} повторено</small></button>`;}).join('')}</div>`;$('activity').querySelectorAll('[data-word-topic]').forEach(b=>b.onclick=()=>{wordTopic=b.dataset.wordTopic;activeWord=null;render();});}
+ else{const topic=TOPICS.find(t=>t.id===wordTopic),words=VOCAB.filter(w=>w.topic===wordTopic),w=WORDS.get(activeWord);$('activity').innerHTML=`<button class="text-button" id="dictionary-back">Все словарные темы</button>`+heading(topic.title,topic.description||'Выбери слово, послушай и повтори.')+(w?`<div class="word-stage">${scene({word:w.en})}<div><div class="word-en" lang="en">${esc(w.en)}</div><div class="word-ipa" lang="en">[${esc(w.ipa)}]</div><div class="word-ru">${esc(w.ru)}</div><p class="word-example" lang="en">${esc(w.example)}</p><div class="button-row"><button class="secondary" data-speech="${esc(w.en)}">${icon('volume-2')}Слово</button><button class="secondary" data-speech="${esc(w.example)}">${icon('volume-2')}Фраза</button></div></div></div><button class="primary" id="mark-word">${state.words.includes(w.en)?'Слово уже повторено':'Я повторила слово'}</button>`:'<div class="word-empty">📖<h2>Выбери слово ниже</h2><p>Открытие темы и карточки не засчитывается как повторение.</p></div>')+dictionaryWordList(words,topic);
  $('dictionary-back').onclick=()=>{wordTopic=null;activeWord=null;render();};$('activity').querySelectorAll('[data-word]').forEach(b=>b.onclick=()=>{stopSpeech();activeWord=b.dataset.word;render();});if($('mark-word'))$('mark-word').onclick=()=>{if(!state.words.includes(w.en))state.words.push(w.en);save();render();};}
  progressSide();
 }
